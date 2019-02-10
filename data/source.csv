@@ -1,0 +1,1666 @@
+﻿CASE_CODE_TYPE,CASE_CODE,CASE_CODE_TITLE,Hierarchy_level,Sort_sequence
+sour,1,CHEMICALS AND CHEMICAL PRODUCTS,1,1
+sour,10,"Chemicals and chemical products, unspecified",2,2
+sour,11,Acids and alkalies,2,3
+sour,110,"Acids and alkalies, unspecified",3,4
+sour,111,Acids,3,5
+sour,1110,"Acids, unspecified",4,6
+sour,1111,"Acetic acid, vinegar",4,7
+sour,1112,"Hydrogen chloride, hydrochloric acid",4,8
+sour,1113,"Hydrogen fluoride, hydrofluoric acid",4,9
+sour,1114,Nitric acid,4,10
+sour,1115,Sulfuric acid,4,11
+sour,1118,Multiple acids,4,12
+sour,1119,"Acids, n.e.c.",4,13
+sour,112,Alkalies,3,14
+sour,1120,"Alkalies, unspecified",4,15
+sour,1121,"Cement, mortar mix—dry",4,16
+sour,1122,"Cement, mortar mix—wet",4,17
+sour,1123,Lime,4,18
+sour,1124,"Limestone, calcium carbonate",4,19
+sour,1125,"Sodium and potassium hydroxide, potassium carbonate",4,20
+sour,1128,Multiple alkalies,4,21
+sour,1129,"Alkalies, n.e.c.",4,22
+sour,12,"Aromatics and hydrocarbon derivatives, except halogenated",2,23
+sour,120,"Aromatics and hydrocarbon derivatives, except halogenated,  unspecified",3,24
+sour,121,Alcohols,3,25
+sour,1210,"Alcohols, unspecified",4,26
+sour,1211,Antifreeze,4,27
+sour,1212,Ethanol,4,28
+sour,1213,Ethylene glycol,4,29
+sour,1214,Methanol,4,30
+sour,1219,"Alcohols, n.e.c.",4,31
+sour,122,Aldehydes,3,32
+sour,1220,"Aldehydes, unspecified",4,33
+sour,1221,Formaldehyde,4,34
+sour,1222,Glutaraldehyde,4,35
+sour,1229,"Aldehydes, n.e.c.",4,36
+sour,123,Aromatics,3,37
+sour,1230,"Aromatics, unspecified",4,38
+sour,1231,Benzene,4,39
+sour,1232,Hydroquinone,4,40
+sour,1233,Toluene,4,41
+sour,1234,Xylene,4,42
+sour,1235,Phenol ,4,43
+sour,1236,Styrene,4,44
+sour,1239,"Aromatics, n.e.c.",4,45
+sour,124,Ketones,3,46
+sour,1240,"Ketones, unspecified",4,47
+sour,1241,Acetone,4,48
+sour,1242,Diacetyl,4,49
+sour,1243,Methyl ethyl ketone,4,50
+sour,1244,Methyl n-butyl ketone,4,51
+sour,1249,"Ketones, n.e.c.",4,52
+sour,128,"Multiple aromatics and hydrocarbon derivatives, except halogenated",3,53
+sour,129,"Other aromatics and hydrocarbon derivatives, except halogenated",3,54
+sour,1291,Acrylamide,4,55
+sour,1292,Acrylonitrile,4,56
+sour,1293,Dimethylformamide,4,57
+sour,1294,Dioxane,4,58
+sour,1295,Ethylene oxide,4,59
+sour,1296,"Nitro hydrocarbons, except aromatic ",4,60
+sour,1299,"Aromatics and hydrocarbon derivatives, except halogenated, n.e.c.",4,61
+sour,13,Halogens and halogen compounds,2,62
+sour,130,"Halogens and halogen compounds, unspecified",3,63
+sour,131,Chlorine and chlorine compounds,3,64
+sour,1310,"Chlorine compounds, unspecified",4,65
+sour,1311,"Chlorine, chlorine bleach",4,66
+sour,1312,Dichloromethane,4,67
+sour,1313,Perchloroethylene,4,68
+sour,1314,Phosgene,4,69
+sour,1315,Trichloroethylene,4,70
+sour,1319,"Chlorine compounds, n.e.c.",4,71
+sour,132,Fluorine and fluorine compounds,3,72
+sour,1320,"Fluorine compounds, unspecified",4,73
+sour,1321,Fluorine,4,74
+sour,1322,Fluorotrichloromethane,4,75
+sour,1329,"Fluorine compounds, n.e.c.",4,76
+sour,139,"Halogens and halogen compounds, n.e.c.",3,77
+sour,14,"Metallic particulates, trace elements, dusts, powders, fumes",2,78
+sour,140,"Metallic particulates, trace elements, dusts, powders, fumes,  unspecified",3,79
+sour,141,Arsenic and compounds,3,80
+sour,142,Beryllium and compounds,3,81
+sour,143,Cadmium and compounds,3,82
+sour,144,Lead and compounds,3,83
+sour,145,Mercury and compounds,3,84
+sour,146,Other metallics and compounds,3,85
+sour,1460,"Other metallics and compounds, unspecified",4,86
+sour,1461,Aluminum and compounds,4,87
+sour,1462,Antimony and compounds,4,88
+sour,1463,Chromium and compounds,4,89
+sour,1464,Manganese and compounds,4,90
+sour,1465,Cobalt and compounds,4,91
+sour,1469,"Metallics and compounds, n.e.c.",4,92
+sour,147,"Welding or soldering fumes, unspecified or n.e.c.",3,93
+sour,148,Multiple metallics and metallic compounds,3,94
+sour,149,"Metallic particulates, trace elements, dusts, powders, fumes, n.e.c.",3,95
+sour,15,Pesticides and other agricultural chemicals,2,96
+sour,150,"Pesticides and other agricultural chemicals, unspecified",3,97
+sour,151,"Fertilizers, plant food, n.e.c.",3,98
+sour,152,"Fumigants, n.e.c.",3,99
+sour,153,Fungicides,3,100
+sour,154,Herbicides,3,101
+sour,155,Insecticides,3,102
+sour,156,Rodenticides,3,103
+sour,158,Multiple agricultural chemicals,3,104
+sour,159,"Pesticides and other agricultural chemicals, n.e.c.",3,105
+sour,16,"Coal, natural gas, petroleum fuels and products",2,106
+sour,160,"Coal, natural gas, petroleum fuels and products, unspecified",3,107
+sour,161,"Coal, coal dust",3,108
+sour,162,Natural gas,3,109
+sour,163,"Petroleum, crude oil",3,110
+sour,164,"Petroleum fuels, distillates, and products, n.e.c.",3,111
+sour,1640,"Petroleum fuels, distillates, and products, unspecified",4,112
+sour,1641,"Gasoline, diesel fuel, jet fuel",4,113
+sour,1642,"Lubricating greases, cutting oils",4,114
+sour,1643,Propane,4,115
+sour,1644,"Paving asphalt, asphaltic cement",4,116
+sour,1649,"Petroleum fuels, distillates, and products, n.e.c.",4,117
+sour,169,"Coal, natural gas, petroleum fuels and products, n.e.c.",3,118
+sour,17,Other chemicals,2,119
+sour,170,"Other chemicals, unspecified",3,120
+sour,171,Ammonia and ammonium compounds,3,121
+sour,1710,"Ammonia and ammonium compounds, unspecified",4,122
+sour,1711,"Ammonia, anhydrous ammonia",4,123
+sour,1712,Ammonium sulfate,4,124
+sour,1718,Multiple ammonia and ammonium compounds,4,125
+sour,1719,"Ammonia and ammonium compounds, n.e.c.",4,126
+sour,172,Cryogenic gases,3,127
+sour,173,Cyanide and cyanide compounds,3,128
+sour,1730,"Cyanide and cyanide compounds, unspecified",4,129
+sour,1731,Hydrogen cyanide,4,130
+sour,1739,"Cyanide and cyanide compounds, n.e.c.",4,131
+sour,174,Oxygen and oxygen compounds,3,132
+sour,1740,"Oxygen and oxygen compounds, unspecified",4,133
+sour,1741,Carbon monoxide,4,134
+sour,1742,"Carbon dioxide, dry ice",4,135
+sour,1743,Nitrogen oxides,4,136
+sour,1744,Osmium tetroxide,4,137
+sour,1748,Multiple oxygen and oxygen compounds,4,138
+sour,1749,"Oxygen and oxygen compounds, n.e.c.",4,139
+sour,175,"Plastics, resins",3,140
+sour,1750,"Plastics, resins, unspecified",4,141
+sour,1751,"Cyanates, urethanes",4,142
+sour,1752,Resins,4,143
+sour,1759,"Plastics, resins, n.e.c.",4,144
+sour,176,"Sewer, mine, and similar gases",3,145
+sour,1760,"Sewer, mine, and similar gases, unspecified",4,146
+sour,1761,Methane gas,4,147
+sour,1762,Mine gas,4,148
+sour,1763,Sewer gas,4,149
+sour,1764,Manure gas,4,150
+sour,1769,"Sewer, mine, and similar gases, n.e.c.",4,151
+sour,177,Sulfur and sulfur compounds,3,152
+sour,1770,"Sulfur and sulfur compounds, unspecified",4,153
+sour,1771,Hydrogen sulfide,4,154
+sour,1772,Carbon bisulfide,4,155
+sour,1773,Sulfur dioxide,4,156
+sour,1778,Multiple sulfur and sulfur compounds,4,157
+sour,1779,"Sulfur and sulfur compounds, n.e.c",4,158
+sour,178,"Multiple chemicals or chemical mixtures, n.e.c.",3,159
+sour,179,"Other chemicals, n.e.c.",3,160
+sour,1791,Nitrogen,4,161
+sour,1792,Helium,4,162
+sour,1793,Hydrogen ,4,163
+sour,1794,"Phosphine, phosphane",4,164
+sour,1799,"Chemicals, n.e.c.",4,165
+sour,18,Chemical products—general,2,166
+sour,180,"Chemical products, unspecified",3,167
+sour,181,"Adhesives, glues, n.e.c.",3,168
+sour,182,"Beauty preparations, cosmetics",3,169
+sour,183,"Cleaning and polishing agents, disinfectants",3,170
+sour,1830,"Cleaning and polishing agents, unspecified",4,171
+sour,1831,"Bleach—nonchlorine, nonperoxide",4,172
+sour,1832,Disinfectants,4,173
+sour,1833,Drain and oven cleaners,4,174
+sour,1834,Soap products,4,175
+sour,1835,Synthetic detergents and shampoos,4,176
+sour,1838,Multiple cleaning and polishing agents,4,177
+sour,1839,"Cleaning and polishing agents, n.e.c.",4,178
+sour,184,"Drugs, alcohol, and medicines",3,179
+sour,1840,"Drugs, alcohol, and medicines, unspecified",4,180
+sour,1841,Alcoholic beverages,4,181
+sour,1842,Drugs—nonmedicinal,4,182
+sour,1843,"Medicines, except vaccines",4,183
+sour,1844,Vaccines,4,184
+sour,1848,"Multiple drugs, alcohol, and medicines",4,185
+sour,1849,"Drugs, alcohol, and medicines, n.e.c.",4,186
+sour,185,"Explosives, blasting agents",3,187
+sour,1850,"Explosives, blasting agents, unspecified",4,188
+sour,1851,Dynamite,4,189
+sour,1852,"Flammable gas, unspecified",4,190
+sour,1853,Gunpowder,4,191
+sour,1854,"Pyrotechnics, fireworks",4,192
+sour,1859,"Explosives, blasting agents, n.e.c.",4,193
+sour,186,"Paint, lacquer, shellac, varnish",3,194
+sour,1860,"Paint, lacquer, shellac, varnish, unspecified",4,195
+sour,1861,"Lacquer, shellac, varnish",4,196
+sour,1862,Paint,4,197
+sour,1868,"Multiple paint, lacquer, shellac, or varnishes",4,198
+sour,1869,"Paint, lacquer, shellac, varnish, n.e.c.",4,199
+sour,187,"Solvents, degreasers",3,200
+sour,1870,"Solvents, degreasers, unspecified",4,201
+sour,1871,Naphtha solvents,4,202
+sour,1872,"Paint removers, thinners",4,203
+sour,1873,2-Butoxyethanol,4,204
+sour,1878,"Multiple solvents, degreasers",4,205
+sour,1879,"Solvents, degreasers, n.e.c.",4,206
+sour,189,Other chemical products—general,3,207
+sour,1891,"Dyes, inks",4,208
+sour,1892,Photographic and copying solutions,4,209
+sour,1893,Food colorings and flavorings,4,210
+sour,1899,"Chemical products, n.e.c.",4,211
+sour,19,"Chemicals and chemical products, n.e.c.",2,212
+sour,2,"CONTAINERS, FURNITURE AND FIXTURES ",1,213
+sour,20,"Containers, furniture, and fixtures, unspecified",2,214
+sour,21,Containers,2,215
+sour,210,"Containers, unspecified",3,216
+sour,211,Containers—nonpressurized,3,217
+sour,2110,"Containers—nonpressurized, unspecified",4,218
+sour,2111,"Bags, sacks",4,219
+sour,2112,"Barrels, drums—except pressurized ",4,220
+sour,2113,"Bottles, jugs, flasks",4,221
+sour,2114,"Boxes, crates, cartons",4,222
+sour,2115,"Buckets, baskets, pails",4,223
+sour,2116,Cans,4,224
+sour,2117,"Pots, pans, trays",4,225
+sour,2118,"Tanks, bins, vats—nonconfined space",4,226
+sour,2119,"Containers—nonpressurized, n.e.c.",4,227
+sour,212,Containers—pressurized,3,228
+sour,2120,"Containers—pressurized, unspecified",4,229
+sour,2121,Boilers,4,230
+sour,2122,Hoses,4,231
+sour,2123,Oxygen tanks and cylinders,4,232
+sour,2124,"Pressure lines, except hoses",4,233
+sour,2125,Propane tanks and cylinders,4,234
+sour,2126,Beer and soda kegs ,4,235
+sour,2127,Fire extinguishers ,4,236
+sour,2129,"Containers—pressurized, n.e.c.",4,237
+sour,213,Containers—variable restraint,3,238
+sour,2130,"Containers—variable restraint, unspecified",4,239
+sour,2131,"Bundles, bales",4,240
+sour,2132,"Packages, parcels",4,241
+sour,2133,"Reels, rolls, spools, coils, cones",4,242
+sour,2139,"Containers—variable restraint, n.e.c.",4,243
+sour,214,"Dishes, drinking cups, beverage glasses",3,244
+sour,2140,"Dishes, drinking cups, beverage glasses, unspecified",4,245
+sour,2141,"Dishes, bowls",4,246
+sour,2142,"Glasses—beverage, drinking cups",4,247
+sour,2149,"Dishes, drinking cups, beverage glasses, n.e.c.",4,248
+sour,215,"Luggage, handbags",3,249
+sour,2150,"Luggage, handbags, unspecified",4,250
+sour,2151,Briefcases,4,251
+sour,2152,"Handbags, pocketbooks, wallets, tote bags",4,252
+sour,2153,"Suitcases, baggage, luggage",4,253
+sour,2154,Computer and laptop cases ,4,254
+sour,2155,Backpacks ,4,255
+sour,2156,Mail bags and satchels—shoulder,4,256
+sour,2157,Tool belts,4,257
+sour,2158,Multiple luggage and handbags,4,258
+sour,2159,"Luggage, handbags, n.e.c.",4,259
+sour,216,"Skids, pallets",3,260
+sour,218,Multiple types of containers,3,261
+sour,219,"Containers, n.e.c.",3,262
+sour,22,Furniture and fixtures,2,263
+sour,220,"Furniture and fixtures, unspecified",3,264
+sour,221,"Cases, cabinets, racks, shelves",3,265
+sour,2210,"Cases, cabinets, racks, shelves, unspecified",4,266
+sour,2211,Bookcases,4,267
+sour,2212,"Cabinets, cases—display, storage",4,268
+sour,2213,"Counters, counter tops",4,269
+sour,2214,Racks—garment and other ,4,270
+sour,2215,Lockers,4,271
+sour,2216,Partitions,4,272
+sour,2217,"Shelves, shelving",4,273
+sour,2218,"Cages, cage racks",4,274
+sour,2219,"Cases, cabinets, racks, shelves, n.e.c.",4,275
+sour,222,"Floor, wall, and window coverings",3,276
+sour,2220,"Floor, wall, and window coverings, unspecified",4,277
+sour,2221,Floor coverings— nonstructural,4,278
+sour,2222,Wall coverings,4,279
+sour,2223,"Window coverings, blinds, shades, draperies",4,280
+sour,2229,"Floor, wall, and window coverings, n.e.c.",4,281
+sour,223,Furniture,3,282
+sour,2230,"Furniture, unspecified",4,283
+sour,2231,"Beds, mattresses",4,284
+sour,2232,"Benches, workbenches, saw horses",4,285
+sour,2233,Chairs,4,286
+sour,2234,Desks,4,287
+sour,2235,Sofas,4,288
+sour,2236,"Tables, worktables",4,289
+sour,2237,"Dressers, armoires ",4,290
+sour,2238,Multiple types of furniture ,4,291
+sour,2239,"Furniture, n.e.c.",4,292
+sour,224,Lighting fixtures and equipment,3,293
+sour,2240,"Lighting equipment, unspecified",4,294
+sour,2241,"Lamps, light fixtures",4,295
+sour,2242,Light bulbs,4,296
+sour,2249,"Lighting equipment, n.e.c.",4,297
+sour,225,Plumbing fixtures,3,298
+sour,2250,"Plumbing fixtures, unspecified",4,299
+sour,2251,"Bathtubs, hot tubs, showers",4,300
+sour,2252,Sinks,4,301
+sour,2253,"Toilets, urinals",4,302
+sour,2259,"Plumbing fixtures, n.e.c.",4,303
+sour,226,"Blackboards, bulletin boards, mirrors",3,304
+sour,2260,"Blackboards, bulletin boards, mirrors, unspecified",4,305
+sour,2261,"Blackboards, bulletin boards, mirrors—wall-mounted",4,306
+sour,2262,"Blackboards, bulletin boards, mirrors—stand-alone",4,307
+sour,229,"Furniture and fixtures, n.e.c.",3,308
+sour,29,"Containers, furniture, and fixtures, n.e.c.",2,309
+sour,3,MACHINERY,1,310
+sour,30,"Machinery, unspecified",2,311
+sour,31,Agricultural and garden machinery,2,312
+sour,310,"Agricultural and garden machinery, unspecified",3,313
+sour,311,Harvesting and threshing machinery,3,314
+sour,3110,"Harvesting and threshing machinery, unspecified",4,315
+sour,3111,Balers—agricultural,4,316
+sour,3112,Combines,4,317
+sour,3113,"Harvesters, reapers",4,318
+sour,3114,Threshers,4,319
+sour,3119,"Harvesting and threshing machinery, n.e.c.",4,320
+sour,312,Mowing machinery,3,321
+sour,3120,"Mowing machinery, unspecified",4,322
+sour,3121,"Lawn mowers—nonriding, powered",4,323
+sour,3122,Lawn mowers—riding,4,324
+sour,3123,Brush hogs—tractor,4,325
+sour,3124,Sickle bars—tractor,4,326
+sour,3125,"Mower—tractor, n.e.c.",4,327
+sour,3129,"Mowing machinery, n.e.c.",4,328
+sour,313,"Plowing, planting, and fertilizing machinery",3,329
+sour,3130,"Plowing, planting, and fertilizing machinery, unspecified",4,330
+sour,3131,Plowing and cultivating machinery,4,331
+sour,3132,Seed planting machinery,4,332
+sour,3133,Spreading machinery—agricultural,4,333
+sour,3139,"Plowing, planting, and fertilizing machinery, n.e.c.",4,334
+sour,319,Other agricultural and garden machinery,3,335
+sour,3190,"Other agricultural and garden machinery, unspecified",4,336
+sour,3191,"Feed grinders, crushers, mixers—agricultural",4,337
+sour,3192,Spraying and dusting machinery—agricultural,4,338
+sour,3193,Irrigation machinery ,4,339
+sour,3199,"Agricultural and garden machinery, n.e.c.",4,340
+sour,32,"Construction, logging, and mining machinery",2,341
+sour,320,"Construction, logging, and mining machinery, unspecified",3,342
+sour,321,Excavating machinery,3,343
+sour,3210,"Excavating machinery, unspecified",4,344
+sour,3211,"Backhoes, trackhoes",4,345
+sour,3212,Bulldozers,4,346
+sour,3213,Front and power shovels,4,347
+sour,3214,Mini excavators,4,348
+sour,3215,Trenchers,4,349
+sour,3219,"Excavating machinery, n.e.c.",4,350
+sour,322,Loaders,3,351
+sour,3220,"Loaders, unspecified",4,352
+sour,3221,"Bucket, front-end, end, and pay loaders",4,353
+sour,3222,"Skid steer loaders, mini loaders",4,354
+sour,3229,"Loaders, n.e.c.",4,355
+sour,323,Logging and wood processing machinery—specialized,3,356
+sour,3230,"Logging and wood processing machinery—specialized, unspecified",4,357
+sour,3231,Mechanical harvesters--logging,4,358
+sour,3232,"Forwarding and yarding machinery, except feller-forwarders",4,359
+sour,3233,Skidders—cable and grapple,4,360
+sour,3234,Chippers,4,361
+sour,3235,Log processing machinery,4,362
+sour,3236,Combination log processing machinery,4,363
+sour,3237,Log loaders,4,364
+sour,3239,"Logging and wood processing machinery—specialized, n.e.c.",4,365
+sour,324,Mining and drilling machinery,3,366
+sour,3240,"Mining and drilling machinery, unspecified",4,367
+sour,3241,"Drilling machines, drilling augers",4,368
+sour,3242,"Mineral sorters, separators, concentrators",4,369
+sour,3243,Tunneling machines,4,370
+sour,3244,Oil drilling rigs and machinery,4,371
+sour,3249,"Mining and drilling machinery, n.e.c.",4,372
+sour,325,Road grading and surfacing machinery,3,373
+sour,3250,"Road grading and surfacing machinery, unspecified",4,374
+sour,3251,Asphalt and concrete spreaders,4,375
+sour,3252,"Asphalt and concrete paving machines, pavers",4,376
+sour,3253,"Rollers, compactors—construction",4,377
+sour,3254,"Graders, scrapers—construction",4,378
+sour,3255,"Milling machines, cold planers, and road profilers",4,379
+sour,3256,"Road recyclers, road reclaimers",4,380
+sour,3257,Material transfer machines,4,381
+sour,3258,Road linemarking and striping machinery,4,382
+sour,3259,"Road grading and surfacing machinery, n.e.c.",4,383
+sour,329,"Other construction, logging, and mining machinery",3,384
+sour,3290,"Other construction, logging, and mining machinery, unspecified",4,385
+sour,3291,"Agitators, mixers—earth, mineral",4,386
+sour,3292,"Compactors, crushers, pulverizers—earth, mineral",4,387
+sour,3293,"Pile drivers, tamping machinery",4,388
+sour,3299,"Construction, logging, and mining machinery, n.e.c.",4,389
+sour,33,"Heating, cooling, and cleaning machinery and appliances",2,390
+sour,330,"Heating, cooling, and cleaning machinery and appliances, unspecified",3,391
+sour,331,Cooling and humidifying machinery and appliances,3,392
+sour,3310,"Cooling and humidifying machinery and appliances, unspecified",4,393
+sour,3311,Air conditioning units,4,394
+sour,3312,"Fans, blowers—wall, floor, ceiling, ventilation",4,395
+sour,3313,"Humidifiers, dehumidifiers, vaporizers",4,396
+sour,3314,"Refrigerators, freezers, ice makers",4,397
+sour,3319,"Cooling and humidifying machinery and appliances, n.e.c.",4,398
+sour,332,Heating and cooking machinery and appliances,3,399
+sour,3320,"Heating and cooking machinery and appliances, unspecified",4,400
+sour,3321,Beverage heating and percolating equipment and  appliances,4,401
+sour,3322,Broiling and frying equipment and appliances,4,402
+sour,3323,Fabric pressers and ironing appliances,4,403
+sour,3324,"Furnaces, heaters",4,404
+sour,3325,Kilns,4,405
+sour,3326,"Ranges, cooking ovens, grills, toasters, food warmers",4,406
+sour,3327,Steaming equipment and appliances,4,407
+sour,3329,"Heating and cooking machinery and appliances, n.e.c.",4,408
+sour,333,"Washers, dryers, and cleaning machinery and appliances",3,409
+sour,3330,"Washers, dryers, and cleaning machinery and appliances, unspecified",4,410
+sour,3331,Car or vehicle washing machinery,4,411
+sour,3332,Clothes dryers,4,412
+sour,3333,Clothes washers,4,413
+sour,3334,Dishwashers,4,414
+sour,3335,Hair and hand dryers,4,415
+sour,3336,Vacuum cleaners,4,416
+sour,3339,"Washers, dryers, and cleaning machinery and appliances, n.e.c.",4,417
+sour,339,"Heating, cooling, and cleaning machinery and appliances, n.e.c.",3,418
+sour,34,Material and personnel handling machinery,2,419
+sour,340,"Material and personnel handling machinery, unspecified",3,420
+sour,341,Conveyors—gravity and nonpowered,3,421
+sour,3410,"Conveyors—gravity and nonpowered, unspecified",4,422
+sour,3411,Chutes,4,423
+sour,3412,Conveyors—roller,4,424
+sour,3413,Conveyors—wheel,4,425
+sour,3419,"Conveyors—gravity and nonpowered, n.e.c.",4,426
+sour,342,Conveyors—powered,3,427
+sour,3420,"Conveyors—powered, unspecified",4,428
+sour,3421,Conveyors—belt,4,429
+sour,3422,"Conveyors—bucket, cup",4,430
+sour,3423,Conveyors—chain,4,431
+sour,3424,Conveyors—live roller,4,432
+sour,3425,Conveyors—pan,4,433
+sour,3426,Conveyors—pneumatic,4,434
+sour,3427,"Conveyors—screw, auger",4,435
+sour,3428,Conveyors—slot,4,436
+sour,3429,"Conveyors—powered, n.e.c.",4,437
+sour,343,Cranes,3,438
+sour,3430,"Cranes, unspecified",4,439
+sour,3431,Cranes—truck-mounted,4,440
+sour,3432,Cranes—rail-mounted,4,441
+sour,3433,"Cranes—floating, barge mounted",4,442
+sour,3434,Cranes—other mobile cranes,4,443
+sour,3435,"Cranes—tower, self-erecting, portal, pillar, hammerhead",4,444
+sour,3436,"Cranes—gantry, overhead, monorail, container",4,445
+sour,3437,Cranes—other fixed or stationary cranes,4,446
+sour,3439,"Cranes, n.e.c.",4,447
+sour,344,Overhead hoists,3,448
+sour,3440,"Overhead hoists, unspecified",4,449
+sour,3441,Overhead hoists—electric powered,4,450
+sour,3442,Overhead hoists—manual,4,451
+sour,3443,Overhead hoists—pneumatic powered,4,452
+sour,3449,"Overhead hoists, n.e.c.",4,453
+sour,345,Derricks and related equipment,3,454
+sour,346,"Elevators, hoists, aerial lifts, personnel platforms—except truck-mounted",3,455
+sour,3460,"Elevators, hoists, aerial lifts, personnel platforms—except truck-mounted, unspecified",4,456
+sour,3461,Dumbwaiters,4,457
+sour,3462,Elevators,4,458
+sour,3463,Manlifts,4,459
+sour,3464,Automobile lifts and hoists,4,460
+sour,3465,Material and personnel hoists,4,461
+sour,3466,Boat lifts,4,462
+sour,3467,"Aerial lifts, scissor lifts—except truck-mounted",4,463
+sour,3469,"Elevators, hoists, aerial lifts, personnel platforms—except truck-mounted, n.e.c.",4,464
+sour,347,Jacks,3,465
+sour,348,"Ski lifts, nonrail amusement rides",3,466
+sour,3480,"Ski lifts, nonrail amusement rides, unspecified",4,467
+sour,3481,"Ski lifts, gondola rides",4,468
+sour,3482,Nonrail amusement rides,4,469
+sour,3489,"Ski lifts, nonrail amusement rides, n.e.c.",4,470
+sour,349,Other material and personnel handling machinery,3,471
+sour,3490,"Other material and personnel handling machinery, unspecified",4,472
+sour,3491,"Winders, unwinders",4,473
+sour,3492,"Banding, baling, strapping machinery",4,474
+sour,3493,Stacking machinery,4,475
+sour,3499,"Material and personnel handling machinery, n.e.c.",4,476
+sour,35,"Metal, woodworking, and special material machinery",2,477
+sour,350,"Metal, woodworking, and special material machinery, unspecified",3,478
+sour,351,"Bending, rolling, shaping machinery",3,479
+sour,3510,"Bending, rolling, shaping machinery, unspecified",4,480
+sour,3511,"Bending, crimping machines",4,481
+sour,3512,Shearing machines,4,482
+sour,3513,"Rolling mills, rolling, calendering machinery",4,483
+sour,3519,"Bending, rolling, shaping machinery, n.e.c.",4,484
+sour,352,"Boring, drilling, planing, milling machinery",3,485
+sour,3520,"Boring, drilling, planing, milling machinery, unspecified",4,486
+sour,3521,Drills—stationary,4,487
+sour,3522,Planing mills,4,488
+sour,3523,Milling machines,4,489
+sour,3524,Reaming machines,4,490
+sour,3525,"Boring, routing, notching machines",4,491
+sour,3529,"Boring, drilling, planing, milling machinery, n.e.c.",4,492
+sour,353,"Extruding, injecting, forming, molding machinery",3,493
+sour,3530,"Extruding, injecting, forming, molding machinery, unspecified",4,494
+sour,3531,Casting machinery,4,495
+sour,3532,Extruding machinery,4,496
+sour,3533,Forging machinery,4,497
+sour,3534,Plastic injection molding machinery,4,498
+sour,3539,"Extruding, injecting, forming, molding machinery, n.e.c.",4,499
+sour,354,"Grinding, polishing machinery",3,500
+sour,3540,"Grinding, polishing machinery, unspecified",4,501
+sour,3541,"Grinders, abraders",4,502
+sour,3542,"Honing, polishing, lapping machinery",4,503
+sour,3549,"Grinding, polishing machinery, n.e.c.",4,504
+sour,355,Lathes,3,505
+sour,3550,"Lathes, unspecified",4,506
+sour,3551,Metalworking lathes,4,507
+sour,3552,Woodworking lathes,4,508
+sour,3559,"Lathes, n.e.c.",4,509
+sour,356,"Presses, except printing",3,510
+sour,3560,"Presses, except printing, unspecified",4,511
+sour,3561,Assembly presses,4,512
+sour,3562,Brake presses,4,513
+sour,3563,Punch presses,4,514
+sour,3569,"Presses, except printing, n.e.c.",4,515
+sour,357,Sawing machinery—stationary,3,516
+sour,3570,"Sawing machinery—stationary, unspecified",4,517
+sour,3571,"Arm saws, radial arm saws",4,518
+sour,3572,Band saws,4,519
+sour,3573,Table saws,4,520
+sour,3579,"Sawing machinery—stationary, n.e.c.",4,521
+sour,358,Threading and tapping machines,3,522
+sour,359,"Other metal, woodworking, and special material machinery",3,523
+sour,3590,"Other metal, woodworking, and special material machinery, unspecified",4,524
+sour,3591,Electrochemical and discharge machinery (EDM),4,525
+sour,3592,Laser cutting machinery,4,526
+sour,3593,Pressure fluid cutting machinery,4,527
+sour,3594,Welding machinery,4,528
+sour,3599,"Metal, woodworking, and special material machinery, n.e.c.",4,529
+sour,36,Office and business machinery,2,530
+sour,360,"Office and business machinery, unspecified",3,531
+sour,361,Computers and peripheral equipment,3,532
+sour,3610,"Computers and peripheral equipment, unspecified",4,533
+sour,3611,Computer monitors,4,534
+sour,3612,Computers—CPUs,4,535
+sour,3613,Keyboards—computer,4,536
+sour,3614,Optical scanners,4,537
+sour,3615,Printers and plotters—computer,4,538
+sour,3616,"Computer mice, laptop trackpads",4,539
+sour,3618,Multiple computer and peripheral equipment,4,540
+sour,3619,"Computers and peripheral equipment, n.e.c.",4,541
+sour,362,"Office, banking, and retail machinery",3,542
+sour,3620,"Office, banking, and retail machinery, unspecified",4,543
+sour,3621,Automated teller machines,4,544
+sour,3622,Calculating machines and cash registers,4,545
+sour,3623,FAX machines,4,546
+sour,3624,Mailing and metering machines,4,547
+sour,3625,Photocopiers,4,548
+sour,3626,Typewriters and word processing equipment,4,549
+sour,3627,Shredders,4,550
+sour,3629,"Office, banking, and retail machinery, n.e.c.",4,551
+sour,369,"Office and business machinery, n.e.c.",3,552
+sour,37,Special process machinery,2,553
+sour,370,"Special process machinery, unspecified",3,554
+sour,371,Food and beverage processing machinery—specialized,3,555
+sour,3710,"Food and beverage processing machinery—specialized, unspecified",4,556
+sour,3711,Food slicers,4,557
+sour,3712,"Juice, oil, and fat extractors",4,558
+sour,3713,Meat grinders,4,559
+sour,3714,"Mixers, blenders, whippers—food and beverage",4,560
+sour,3715,Butchering machinery,4,561
+sour,3716,Dairy and milk processing machinery—specialized,4,562
+sour,3719,"Food and beverage processing machinery—specialized, n.e.c.",4,563
+sour,372,"Medical, surgical, x-ray machinery and equipment",3,564
+sour,3720,"Medical, surgical, x-ray machinery and equipment, unspecified",4,565
+sour,3721,"Medical machinery and equipment, except x-ray",4,566
+sour,3722,"X-ray, magnetic resonance imaging (MRI), and fluoroscope machinery and equipment",4,567
+sour,3729,"Medical, surgical, x-ray machinery and equipment, n.e.c.",4,568
+sour,373,"Packaging, bottling, wrapping machinery",3,569
+sour,3730,"Packaging, bottling, wrapping machinery, unspecified",4,570
+sour,3731,"Bottling, canning, filling machinery",4,571
+sour,3732,"Packaging, wrapping, bundling machinery",4,572
+sour,3733,Product labeling machinery,4,573
+sour,3734,"Sealing, stapling machinery",4,574
+sour,3739,"Packaging, bottling, wrapping machinery, n.e.c.",4,575
+sour,374,Paper production machinery,3,576
+sour,3740,"Paper production machinery, unspecified",4,577
+sour,3741,"Calenders, supercalenders—paper production",4,578
+sour,3742,Coaters—paper production,4,579
+sour,3743,Dryers—paper production,4,580
+sour,3744,Formers—paper production,4,581
+sour,3745,"Slitters, winders—paper production",4,582
+sour,3746,"Washers, bleachers, refiners—paper production",4,583
+sour,3749,"Paper production machinery, n.e.c.",4,584
+sour,375,Printing machinery and equipment,3,585
+sour,3750,"Printing machinery and equipment, unspecified",4,586
+sour,3751,Bindery machinery,4,587
+sour,3752,Engraving machinery,4,588
+sour,3753,Presses—printing,4,589
+sour,3754,Typesetting machinery,4,590
+sour,3759,"Printing machinery and equipment, n.e.c.",4,591
+sour,376,"Textile, apparel, leather production machinery",3,592
+sour,3760,"Textile, apparel, leather production machinery, unspecified",4,593
+sour,3761,Dyeing machinery—textile,4,594
+sour,3762,Knitting machinery,4,595
+sour,3763,"Picking, carding, combing machinery",4,596
+sour,3764,"Sewing, stitching machinery",4,597
+sour,3765,Spinning machinery,4,598
+sour,3766,Weaving machinery,4,599
+sour,3769,"Textile, apparel, leather production machinery, n.e.c.",4,600
+sour,379,Other special process machinery,3,601
+sour,3790,"Other special process machinery, unspecified",4,602
+sour,3791,Centrifuges,4,603
+sour,3792,Distilling and rectifying machinery,4,604
+sour,3793,"Dyeing machinery, except textile",4,605
+sour,3794,Gas liquefying machinery,4,606
+sour,3795,Paint mixing machinery,4,607
+sour,3796,"Painting, priming, metal coating machinery",4,608
+sour,3797,Pumps,4,609
+sour,3799,"Special process machinery, n.e.c.",4,610
+sour,39,Miscellaneous machinery,2,611
+sour,390,"Miscellaneous machinery, unspecified",3,612
+sour,391,Audio and video equipment,3,613
+sour,3910,"Audio and video equipment, unspecified",4,614
+sour,3911,Audio equipment,4,615
+sour,3912,Stationary telephones and communication equipment,4,616
+sour,3913,"Mobile phones, personal digital assistants, other mobile devices",4,617
+sour,3914,Televisions,4,618
+sour,3915,Video players and recorders,4,619
+sour,3919,"Audio and video equipment, n.e.c.",4,620
+sour,392,"Product assembly machinery, n.e.c.",3,621
+sour,393,"Product testing, inspecting, and diagnostic machinery, n.e.c.",3,622
+sour,399,Other machinery,3,623
+sour,3990,"Other machinery, unspecified",4,624
+sour,3991,Air compressors,4,625
+sour,3992,Garbage disposals,4,626
+sour,3993,Incinerators,4,627
+sour,3994,Snowblowers,4,628
+sour,3995,Trash compactors,4,629
+sour,3996,Vending machines,4,630
+sour,3999,"Machinery, n.e.c.",4,631
+sour,4,PARTS AND MATERIALS,1,632
+sour,40,"Parts and materials, unspecified",2,633
+sour,41,Building materials—solid elements,2,634
+sour,410,"Building materials, unspecified",3,635
+sour,411,"Bricks, blocks, structural stone",3,636
+sour,4110,"Bricks, blocks, structural stone, unspecified",4,637
+sour,4111,Bricks and pavers,4,638
+sour,4112,"Concrete blocks, cinder blocks",4,639
+sour,4113,"Stone, marble, granite slabs",4,640
+sour,4114,"Structural stones or slabs, n.e.c.",4,641
+sour,4119,"Bricks, blocks, structural stone, n.e.c.",4,642
+sour,412,"Pipes, ducts, tubing",3,643
+sour,4120,"Pipes, ducts, tubing, unspecified",4,644
+sour,4121,Concrete or clay pipes and conduits,4,645
+sour,4122,Ducts,4,646
+sour,4123,"Metal pipes, tubing",4,647
+sour,4124,"Pipe fittings, collars",4,648
+sour,4125,"Plastic, PVC, or rubber pipes and tubing",4,649
+sour,4129,"Pipes, ducts, tubing, n.e.c.",4,650
+sour,413,Structural metal materials,3,651
+sour,4130,"Structural metal materials, unspecified",4,652
+sour,4131,Angle irons,4,653
+sour,4132,"Bars, rods, reinforcing bar (rebar)",4,654
+sour,4133,Beams—unattached metal,4,655
+sour,4134,Grates,4,656
+sour,4135,"Metal plates, metal panels",4,657
+sour,4136,Rails—unattached metal,4,658
+sour,4137,Sheet metal,4,659
+sour,4139,"Structural metal materials, n.e.c.",4,660
+sour,414,"Tiles, shingles",3,661
+sour,4140,"Tiles, shingles, unspecified",4,662
+sour,4141,Ceiling tiles,4,663
+sour,4142,"Ceramic or stone tiles—drain, roof, multipurpose",4,664
+sour,4143,"Roof shingles, except tile",4,665
+sour,4144,Vinyl floor tiles,4,666
+sour,4149,"Tiles, shingles, n.e.c.",4,667
+sour,415,"Wood, lumber",3,668
+sour,4150,"Wood, lumber, unspecified",4,669
+sour,4151,"Dimensional lumber: 2x4, 2x3, etc.",4,670
+sour,4152,"Plywood, wood paneling; particle, chip, flake board",4,671
+sour,4153,Wooden beams ,4,672
+sour,4154,"Wood pieces, trim pieces, wood scraps, n.e.c.",4,673
+sour,4155,Wooden stakes,4,674
+sour,4159,"Wood, lumber, n.e.c.",4,675
+sour,419,Other building materials—solid elements,3,676
+sour,4190,"Other building materials—solid elements, unspecified",4,677
+sour,4191,"Fencing and screening material, n.e.c.",4,678
+sour,4192,Flashing,4,679
+sour,4193,Glass building materials,4,680
+sour,4194,"Gutters, downspouts",4,681
+sour,4195,Sheet flooring,4,682
+sour,4196,"Siding—aluminum, vinyl",4,683
+sour,4197,"Structural hardware, n.e.c.",4,684
+sour,4198,"Wallboard, drywall, sheetrock",4,685
+sour,4199,"Building materials—solid elements, n.e.c.",4,686
+sour,42,"Fasteners, connectors, ropes, ties",2,687
+sour,420,"Fasteners, connectors, ropes, ties, unspecified",3,688
+sour,421,Fasteners,3,689
+sour,4210,"Fasteners, unspecified",4,690
+sour,4211,"Clamps, couplings",4,691
+sour,4212,"Nails, brads, tacks, nuts, bolts, washers",4,692
+sour,4213,Hinges,4,693
+sour,4214,Rivets,4,694
+sour,4215,Screws,4,695
+sour,4216,Spikes,4,696
+sour,4217,Staples,4,697
+sour,4219,"Fasteners, n.e.c.",4,698
+sour,422,"Ropes, ties, chains",3,699
+sour,4220,"Ropes, ties, chains, unspecified",4,700
+sour,4221,Bands,4,701
+sour,4222,Bungee cords,4,702
+sour,4223,"Chains, n.e.c.",4,703
+sour,4224,"Rope, twine, string",4,704
+sour,4225,Strapping,4,705
+sour,4226,"Wire, cables—nonelectrical",4,706
+sour,4229,"Ropes, ties, chains, n.e.c.",4,707
+sour,423,"Valves, nozzles",3,708
+sour,429,"Fasteners, connectors, ropes, ties, n.e.c.",3,709
+sour,43,Hoisting accessories,2,710
+sour,430,"Hoisting accessories, unspecified",3,711
+sour,431,"Fixtures, load indicators",3,712
+sour,432,"Hooks, shackles, magnets, clamshells",3,713
+sour,433,Slings,3,714
+sour,439,"Hoisting accessories, n.e.c.",3,715
+sour,44,"Machine, tool, and electric parts",2,716
+sour,440,"Machine, tool, and electric parts, unspecified",3,717
+sour,441,Electric parts,3,718
+sour,4410,"Electric parts, unspecified",4,719
+sour,4411,Electrical wiring—building,4,720
+sour,4412,Generators,4,721
+sour,4413,Batteries other than automotive ,4,722
+sour,4414,Motors other than vehicle,4,723
+sour,4415,"Power lines, transformers, convertors",4,724
+sour,4416,"Relays, rheostats, starters, controls",4,725
+sour,4417,"Switchboards, switches, fuses",4,726
+sour,4418,"Power cords, electrical cords, extension cords",4,727
+sour,4419,"Electric parts, n.e.c.",4,728
+sour,442,Machine and appliance parts,3,729
+sour,4420,"Machine and appliance parts, unspecified",4,730
+sour,4421,"Dies, molds, patterns",4,731
+sour,4422,"Drives—chain, leather, fabric, vee belt",4,732
+sour,4423,"Drums, pulleys, sheaves",4,733
+sour,4424,"Engines, turbines, except vehicle",4,734
+sour,4425,Friction clutches,4,735
+sour,4426,Gears,4,736
+sour,4427,Rollers,4,737
+sour,4429,"Machine and appliance parts, n.e.c.",4,738
+sour,443,"Tool parts, accessories",3,739
+sour,4430,"Tool parts, accessories, unspecified",4,740
+sour,4431,Drill bits—unattached,4,741
+sour,4432,Saw blades—unattached,4,742
+sour,4439,"Tool parts, accessories, n.e.c.",4,743
+sour,449,"Machine, tool, and electric parts, n.e.c.",3,744
+sour,45,Metal materials—nonstructural,2,745
+sour,450,"Metal materials—nonstructural, unspecified",3,746
+sour,451,"Metal sheets, ingots, bars—nonstructural",3,747
+sour,452,"Molten or hot metals, slag",3,748
+sour,459,"Metal materials—nonstructural, n.e.c.",3,749
+sour,46,"Tars, sealants, caulking, insulating material",2,750
+sour,460,"Tars, sealants, caulking, insulation, unspecified",3,751
+sour,461,"Roofing asphalt, roofing tar",3,752
+sour,462,Fiberglass insulation,3,753
+sour,463,"Foam caulking, foam insulation",3,754
+sour,464,"Joint compound, patching compound",3,755
+sour,465,"Plastic, vinyl caulking",3,756
+sour,466,"Sealants, waterproofers, n.e.c.",3,757
+sour,469,"Tars, sealants, caulking, insulation, n.e.c.",3,758
+sour,47,Tarps and sheeting—nonmetal,2,759
+sour,470,"Tarps and sheeting—nonmetal, unspecified",3,760
+sour,471,"Roofing paper, roofing felt",3,761
+sour,472,"Tarps, plastic or fabric sheeting",3,762
+sour,473,Plastic wrap,3,763
+sour,474,Cardboard,3,764
+sour,479,"Tarps and sheeting—nonmetal, n.e.c.",3,765
+sour,48,Vehicle and mobile equipment parts,2,766
+sour,480,"Vehicle and mobile equipment parts, unspecified",3,767
+sour,481,"Tires, inner tubes, wheels",3,768
+sour,4810,"Tires, inner tubes, wheels, unspecified",4,769
+sour,4811,Bike tires,4,770
+sour,4812,Tire inner tubes,4,771
+sour,4813,"Tires, except bike",4,772
+sour,4814,"Wheels, tire rims",4,773
+sour,4819,"Tires, inner tubes, wheels, n.e.c.",4,774
+sour,482,Engine parts and accessories,3,775
+sour,4820,"Engine parts and accessories, unspecified",4,776
+sour,4821,Battery—vehicle ,4,777
+sour,4822,"Belts, hoses—vehicle",4,778
+sour,4823,"Engine, engine block, motor—vehicle",4,779
+sour,4824,Fan—vehicle,4,780
+sour,4825,"Muffler, exhaust",4,781
+sour,4826,Radiator—vehicle,4,782
+sour,4827,Transmission—vehicle,4,783
+sour,4829,"Engine parts and accessories, n.e.c.",4,784
+sour,483,Trailers,3,785
+sour,484,"Windshields, vehicle windows",3,786
+sour,485,"Vehicle doors, liftgates, tailgates",3,787
+sour,4850,"Vehicle doors, liftgates, tailgates, unspecified",4,788
+sour,4851,Vehicle passenger doors,4,789
+sour,4852,Liftgates,4,790
+sour,4853,Tailgates,4,791
+sour,489,"Vehicle and mobile equipment parts, n.e.c.",3,792
+sour,49,Other parts and materials,2,793
+sour,490,"Other parts and materials, unspecified",3,794
+sour,491,"Caps, lids, covers",3,795
+sour,4910,"Caps, lids, covers, unspecified",4,796
+sour,4911,"Container caps, lids, covers",4,797
+sour,4912,Manhole and cistern covers,4,798
+sour,4919,"Caps, lids, covers, n.e.c.",4,799
+sour,499,"Parts and materials, n.e.c.",3,800
+sour,5,"PERSONS, PLANTS, ANIMALS, AND MINERALS",1,801
+sour,50,"Persons, plants, animals, and minerals, unspecified",2,802
+sour,51,Animals,2,803
+sour,510,"Animals, unspecified",3,804
+sour,511,Birds and fowl,3,805
+sour,5110,"Birds and fowl, unspecified",4,806
+sour,5111,"Birds, except fowl",4,807
+sour,5112,Chickens,4,808
+sour,5113,Ducks,4,809
+sour,5114,Geese,4,810
+sour,5115,Turkeys,4,811
+sour,5119,"Birds and fowl, n.e.c.",4,812
+sour,512,"Fish, shellfish",3,813
+sour,513,"Insects, arachnids, mites",3,814
+sour,5130,"Insects, arachnids, mites, unspecified",4,815
+sour,5131,"Bees, hornets, wasps ",4,816
+sour,5132,"Spiders, scorpions",4,817
+sour,5133,Ants,4,818
+sour,5134,"Lice, fleas, bedbugs",4,819
+sour,5135,Mosquitoes,4,820
+sour,5136,Ticks and mites ,4,821
+sour,5138,"Multiple insects, arachnids, mites",4,822
+sour,5139,"Insects, arachnids, mites, n.e.c.",4,823
+sour,514,Reptiles,3,824
+sour,5140,"Reptiles, unspecified",4,825
+sour,5141,Venomous snakes,4,826
+sour,5142,Nonvenomous snakes,4,827
+sour,5149,"Reptiles, n.e.c.",4,828
+sour,515,"Mammals, except humans",3,829
+sour,5150,"Mammals, unspecified",4,830
+sour,5151,"Cats, felines—domestic",4,831
+sour,5152,"Dogs, canines—domestic ",4,832
+sour,5153,Cattle and other bovines ,4,833
+sour,5154,Horses and other equines ,4,834
+sour,5155,Rodents ,4,835
+sour,5156,"Sheep, goats, and other caprids ",4,836
+sour,5157,Swine and other porcines ,4,837
+sour,5158,Deer and other cervids ,4,838
+sour,5159,"Mammals, n.e.c.",4,839
+sour,519,"Animals, n.e.c.",3,840
+sour,52,Animal and plant byproducts,2,841
+sour,520,"Animal and plant byproducts, unspecified",3,842
+sour,521,"Animal products, nonfood",3,843
+sour,5210,"Animal products—nonfood, unspecified",4,844
+sour,5211,"Bones, shells",4,845
+sour,5212,Feathers,4,846
+sour,5213,"Fur, wool",4,847
+sour,5214,Hides—leather,4,848
+sour,5215,"Animal carcass, roadkill",4,849
+sour,5216,Animal waste products,4,850
+sour,5219,"Animal products—nonfood, n.e.c.",4,851
+sour,522,Food products,3,852
+sour,5220,"Food products, unspecified",4,853
+sour,5221,"Fats, oils, cooking greases ",4,854
+sour,5222,"Soups, sauces, gravies",4,855
+sour,5223,Dairy products,4,856
+sour,5224,"Beverages, n.e.c.",4,857
+sour,5225,"Fruits, nuts, vegetables",4,858
+sour,5226,"Grains, cereals, grain mill products",4,859
+sour,5227,"Meat, poultry, seafood",4,860
+sour,5228,Multiple foods or groceries,4,861
+sour,5229,"Food products, n.e.c.",4,862
+sour,529,"Animal and plant byproducts, n.e.c.",3,863
+sour,53,Infectious and parasitic agents,2,864
+sour,530,"Infectious and parasitic agents, unspecified",3,865
+sour,531,Bacteria,3,866
+sour,532,Fungi,3,867
+sour,5320,"Fungi, unspecified",4,868
+sour,5321,"Mold, mildew",4,869
+sour,5329,"Fungi, n.e.c.",4,870
+sour,533,Viruses,3,871
+sour,539,"Infectious and parasitic agents, n.e.c.",3,872
+sour,54,Metallic minerals,2,873
+sour,540,"Metallic minerals, unspecified",3,874
+sour,541,Metal ores—nonradiating,3,875
+sour,542,"Radiating metals, natural and processed",3,876
+sour,5420,"Radiating metals, natural and processed, unspecified",4,877
+sour,5421,Plutonium,4,878
+sour,5422,Radium,4,879
+sour,5423,Uranium,4,880
+sour,5429,"Radiating metals, natural and processed, n.e.c.",4,881
+sour,549,"Metallic minerals, n.e.c.",3,882
+sour,55,"Nonmetallic minerals, except fuel",2,883
+sour,550,"Nonmetallic minerals, except fuel, unspecified",3,884
+sour,551,Asbestos,3,885
+sour,552,Boulders,3,886
+sour,553,Clay—natural and processed,3,887
+sour,554,"Dirt, earth",3,888
+sour,555,Mud,3,889
+sour,556,"Rocks, crushed stone",3,890
+sour,557,"Sand, gravel",3,891
+sour,558,Silica,3,892
+sour,559,"Nonmetallic minerals, except fuel, n.e.c.",3,893
+sour,56,Person—injured or ill worker,2,894
+sour,560,"Person—injured or ill worker, unspecified",3,895
+sour,561,"Bodily conditions of injured, ill worker",3,896
+sour,562,"Bodily motion or position of injured, ill worker",3,897
+sour,569,"Person—injured or ill worker, n.e.c.",3,898
+sour,57,Person—other than injured or ill worker,2,899
+sour,570,"Person, other than injured or ill worker, unspecified",3,900
+sour,571,Relative or domestic partner of injured or ill worker,3,901
+sour,5710,"Relative or domestic partner of injured or ill worker, unspecified",4,902
+sour,5711,Spouse or domestic partner of injured or ill worker,4,903
+sour,5712,Immediate family member other than spouse,4,904
+sour,5719,"Relative or domestic partner of injured or ill worker, n.e.c.",4,905
+sour,572,Co-worker or work associate of injured or ill worker,3,906
+sour,5720,"Co-worker or work associate of injured or ill worker, unspecified",4,907
+sour,5721,Co-worker,4,908
+sour,5722,Former co-worker,4,909
+sour,5723,Work associate,4,910
+sour,5724,Former work associate,4,911
+sour,5729,"Co-worker or work associate, n.e.c.",4,912
+sour,573,Student,3,913
+sour,574,Patient ,3,914
+sour,575,Other client or customer,3,915
+sour,576,Acquaintance,3,916
+sour,577,"Assailant, suspect, inmate",3,917
+sour,5770,"Assailant, suspect, unspecified",4,918
+sour,5771,Robber,4,919
+sour,5772,Inmate or detainee in custody,4,920
+sour,5773,Suspect not yet apprehended,4,921
+sour,5779,"Assailant, suspect, n.e.c.",4,922
+sour,578,Bodily fluids or substances of other than injured or ill person,3,923
+sour,5780,"Bodily fluids or substances of other than injured or ill person, unspecified",4,924
+sour,5781,Blood of other than injured or ill person,4,925
+sour,5782,Urine or feces of other than injured or ill person,4,926
+sour,5783,Mucus or saliva of other than injured or ill person,4,927
+sour,5788,Combination of bodily fluids or substances of other than injured or ill person,4,928
+sour,5789,"Bodily fluids or substances of other than injured or ill person, n.e.c.",4,929
+sour,579,"Person, other than injured or ill worker, n.e.c.",3,930
+sour,58,"Plants, trees, vegetation—not processed",2,931
+sour,580,"Plants, trees, vegetation, unspecified",3,932
+sour,581,Cash grain crops,3,933
+sour,582,Field crops,3,934
+sour,583,Flowers,3,935
+sour,584,Houseplants,3,936
+sour,585,"Poison ivy, oak, sumac, Rhus",3,937
+sour,5850,"Poison ivy, oak, sumac, Rhus, unspecified",4,938
+sour,5851,Poison ivy,4,939
+sour,5852,Poison oak,4,940
+sour,5853,Poison sumac,4,941
+sour,5859,"Poison ivy, oak, sumac, Rhus, n.e.c.",4,942
+sour,586,"Shrubs, grasses",3,943
+sour,587,"Trees, logs, limbs",3,944
+sour,5870,"Trees, logs, limbs, unspecified",4,945
+sour,5871,Trees,4,946
+sour,5872,Logs,4,947
+sour,5873,"Limbs, branches—unattached",4,948
+sour,5879,"Trees, logs, limbs, n.e.c.",4,949
+sour,589,"Other plants, trees, vegetation—not processed",3,950
+sour,5891,Grain dust,4,951
+sour,5899,"Plants, trees, vegetation—not processed, n.e.c.",4,952
+sour,59,"Persons, plants, animals, and minerals, n.e.c.",2,953
+sour,6,STRUCTURES AND SURFACES,1,954
+sour,60,"Structures and surfaces, unspecified",2,955
+sour,61,Confined spaces,2,956
+sour,610,"Confined spaces, unspecified",3,957
+sour,611,"Ditches, channels, trenches, excavations",3,958
+sour,612,"Underground mines, caves, tunnels",3,959
+sour,6120,"Mines, caves, tunnels, unspecified",4,960
+sour,6121,"Underground mines, mine tunnels",4,961
+sour,6122,"Sewers, manholes, storm drains",4,962
+sour,6123,Subway and train tunnels,4,963
+sour,6124,Underground pedestrian walkways,4,964
+sour,6129,"Mines, caves, tunnels, n.e.c.",4,965
+sour,613,"Wells, cisterns",3,966
+sour,614,Pipeline interiors ,3,967
+sour,615,Manure pits,3,968
+sour,616,"Spray, paint booths",3,969
+sour,617,"Tank, bin, vat interiors",3,970
+sour,6170,"Tank, bin, vat interiors, unspecified",4,971
+sour,6171,"Silo, grain bin interiors",4,972
+sour,6172,Grain elevator interiors,4,973
+sour,6173,Septic tank or water tank interiors,4,974
+sour,6174,Trash bin or dumpster interiors,4,975
+sour,6175,Trough interiors,4,976
+sour,6176,Oil storage tank interiors,4,977
+sour,6177,Hopper interiors,4,978
+sour,6179,"Tank, bin, vat interiors, n.e.c.",4,979
+sour,618,Confined spaces on vehicles,3,980
+sour,6180,"Confined spaces on vehicles, unspecified",4,981
+sour,6181,"Confined spaces on ships, water vessels",4,982
+sour,6182,Tanker truck interiors,4,983
+sour,6189,"Confined spaces on vehicles, n.e.c.",4,984
+sour,619,Other confined spaces,3,985
+sour,6191,Crawl spaces,4,986
+sour,6199,"Confined spaces, n.e.c.",4,987
+sour,62,"Buildings—office, plant, residential",2,988
+sour,620,"Building, unspecified",3,989
+sour,621,Industrial buildings,3,990
+sour,6210,"Industrial building, unspecified",4,991
+sour,6211,Warehouse,4,992
+sour,6212,"Factory, manufacturing plant",4,993
+sour,6213,Offshore oil platform,4,994
+sour,6219,"Industrial building, n.e.c.",4,995
+sour,622,Agricultural buildings,3,996
+sour,6220,"Agricultural building, unspecified",4,997
+sour,6221,Barn,4,998
+sour,6222,Silo exterior ,4,999
+sour,6223,Grain bin exterior,4,1000
+sour,6229,"Agricultural building, n.e.c.",4,1001
+sour,623,Commercial and retail buildings,3,1002
+sour,6230,"Commercial or retail building, unspecified",4,1003
+sour,6231,"Restaurant, bar",4,1004
+sour,6232,"Retail establishment, store, mall",4,1005
+sour,6233,"Hotel, motel, lodging establishment",4,1006
+sour,6239,"Commercial or retail building, n.e.c.",4,1007
+sour,624,"Medical buildings, except institutional residential",3,1008
+sour,6240,"Medical buildings, except institutional residential, unspecified",4,1009
+sour,6241,Hospital,4,1010
+sour,6242,Clinic or doctor’s office,4,1011
+sour,6243,Laboratory,4,1012
+sour,6249,"Medical buildings, except institutional residential, n.e.c.",4,1013
+sour,625,"Residential buildings, except institutionalized",3,1014
+sour,6250,"Residential building, except institutionalized, unspecified",4,1015
+sour,6251,"House, townhouse, rowhouse",4,1016
+sour,6252,"High-rise apartment building, condominium",4,1017
+sour,6253,"Low or mid-rise apartment building, condominium",4,1018
+sour,6254,Mobile or prefabricated home,4,1019
+sour,6259,"Residential building, except institutionalized, n.e.c.",4,1020
+sour,626,Other public and office buildings,3,1021
+sour,6260,"Other public or office building, unspecified",4,1022
+sour,6261,"Skyscraper, high-rise—except government",4,1023
+sour,6262,Low or mid-rise office building—except government,4,1024
+sour,6263,"Government building, post office",4,1025
+sour,6269,"Public or office building, n.e.c.",4,1026
+sour,627,"Institutionalized residential building, except jails",3,1027
+sour,628,"Prisons, jails",3,1028
+sour,629,"Building, n.e.c.",3,1029
+sour,63,Structures other than buildings,2,1030
+sour,630,"Structures other than buildings, unspecified",3,1031
+sour,631,"Bridges, dams, locks",3,1032
+sour,632,"Grandstands, stadia",3,1033
+sour,633,Pools,3,1034
+sour,634,"Scaffolds, staging",3,1035
+sour,6340,"Scaffolds—staging, unspecified",4,1036
+sour,6341,Scaffolds—improvised staging,4,1037
+sour,6342,Scaffolds—self-supporting staging,4,1038
+sour,6343,Scaffolds—staging supported by structure or other means,4,1039
+sour,6344,Scaffolds—suspended staging,4,1040
+sour,6345,Machine platforms,4,1041
+sour,6346,Catwalks,4,1042
+sour,6349,"Scaffolds—staging, n.e.c.",4,1043
+sour,635,"Towers, poles",3,1044
+sour,6350,"Towers, poles, unspecified",4,1045
+sour,6351,Telecommunications and cell phone towers,4,1046
+sour,6352,Utility and telephone poles,4,1047
+sour,6353,"Lamp posts, street lights",4,1048
+sour,6354,"Windmills, wind turbines",4,1049
+sour,6359,"Towers, poles, n.e.c.",4,1050
+sour,636,"Excavations, strip mines, and quarries (except confined space)",3,1051
+sour,639,Other structures,3,1052
+sour,6390,"Other structures, unspecified",4,1053
+sour,6391,"Guardrails, road dividers",4,1054
+sour,6392,"Posts, bollards, moorings",4,1055
+sour,6393,Hydrants,4,1056
+sour,6394,Road signs,4,1057
+sour,6395,"Porches, balconies, decks, patios",4,1058
+sour,6396,Railroad tracks,4,1059
+sour,6397,Mailboxes ,4,1060
+sour,6399,"Structures, n.e.c.",4,1061
+sour,64,Building systems,2,1062
+sour,640,"Building systems, unspecified",3,1063
+sour,641,Climate control systems,3,1064
+sour,642,Plumbing systems,3,1065
+sour,643,Electrical systems,3,1066
+sour,644,Security systems,3,1067
+sour,649,"Building systems, n.e.c.",3,1068
+sour,65,Other structural elements,2,1069
+sour,650,"Other structural elements, unspecified",3,1070
+sour,651,Entrances and exits,3,1071
+sour,6510,"Entrances and exits, unspecified",4,1072
+sour,6511,"Doors, except garage and vehicle",4,1073
+sour,6512,Garage doors,4,1074
+sour,6519,"Entrances and exits, n.e.c.",4,1075
+sour,652,"Fences, fence panels, gates",3,1076
+sour,6520,"Fences, fence panels, gates, unspecified",4,1077
+sour,6521,"Chain-link fences, panels",4,1078
+sour,6522,Barbed-wire fences,4,1079
+sour,6523,"Wooden fences, panels",4,1080
+sour,6524,Gates,4,1081
+sour,6529,"Fences, fence panels, gates, n.e.c.",4,1082
+sour,653,"Windows, openings",3,1083
+sour,654,Roofs,3,1084
+sour,6540,"Roofs, unspecified",4,1085
+sour,6541,Skylights,4,1086
+sour,6542,"Existing roof openings, other than skylights",4,1087
+sour,6543,Roof surfaces other than roof edge,4,1088
+sour,6544,Roof edges,4,1089
+sour,6549,"Roofs, n.e.c.",4,1090
+sour,655,"Trusses, girders, beams—structurally attached",3,1091
+sour,6550,"Trusses, girders, beams—structurally attached, unspecified",4,1092
+sour,6551,"Girders, beams, structural steel",4,1093
+sour,6552,"Roof trusses, joists",4,1094
+sour,656,"Ceilings, walls",3,1095
+sour,6560,"Ceilings, walls, unspecified",4,1096
+sour,6561,Ceilings,4,1097
+sour,6562,Walls,4,1098
+sour,6569,"Ceilings, walls, n.e.c.",4,1099
+sour,657,"Handrails, banisters",3,1100
+sour,658,Elevator shafts,3,1101
+sour,659,"Structural elements, n.e.c.",3,1102
+sour,66,"Floors, walkways, ground surfaces",2,1103
+sour,660,"Floors, walkways, ground surfaces, unspecified",3,1104
+sour,661,"Stairs, steps, escalators",3,1105
+sour,6610,"Stairs, steps, unspecified",4,1106
+sour,6611,"Stairs, steps—indoors",4,1107
+sour,6612,"Stairs, steps—outdoors",4,1108
+sour,6613,Escalators,4,1109
+sour,662,Floors,3,1110
+sour,6620,"Floor, unspecified",4,1111
+sour,6621,Existing floor opening ,4,1112
+sour,6622,Floor irregularity,4,1113
+sour,6629,"Floor, n.e.c.",4,1114
+sour,663,Ground,3,1115
+sour,6630,"Ground, unspecified",4,1116
+sour,6631,Ground irregularity,4,1117
+sour,6639,"Ground, n.e.c.",4,1118
+sour,664,"Sidewalks, paths, outdoor walkways",3,1119
+sour,6640,"Sidewalks, paths, outdoor walkways, unspecified",4,1120
+sour,6641,"Sidewalk, path, or outdoor walkway irregularity",4,1121
+sour,6642,"Sidewalk, path, outdoor walkway—paved",4,1122
+sour,6643,"Sidewalk, path, outdoor walkway—unpaved",4,1123
+sour,665,"Streets, roads, driveways",3,1124
+sour,6650,"Street, road, driveway, unspecified",4,1125
+sour,6651,"Street, road, or driveway irregularity",4,1126
+sour,6652,"Street, road, driveway—paved",4,1127
+sour,6653,"Street, road, driveway—unpaved",4,1128
+sour,666,Parking lots,3,1129
+sour,6660,"Parking lot, unspecified",4,1130
+sour,6661,Parking lot irregularity,4,1131
+sour,6662,Parking lot—paved,4,1132
+sour,6663,Parking lot—unpaved,4,1133
+sour,667,"Curbs, traffic calming bumps, embankments",3,1134
+sour,6670,"Curbs, traffic calming bumps, embankments, unspecified",4,1135
+sour,6671,Curbs,4,1136
+sour,6672,"Speed bumps, speed humps",4,1137
+sour,6673,Concrete parking blocks and barriers,4,1138
+sour,6674,Berms,4,1139
+sour,6675,Embankments ,4,1140
+sour,6676,"Culverts, nonconfined ditches",4,1141
+sour,6679,"Curbs, traffic calming bumps, embankments, n.e.c.",4,1142
+sour,669,"Other floors, walkways, ground surfaces",3,1143
+sour,6690,"Other floors, walkways, ground surfaces, unspecified",4,1144
+sour,6691,"Piers, wharfs",4,1145
+sour,6692,"Ramps, loading docks, dock plates",4,1146
+sour,6693,Moving walkways,4,1147
+sour,6694,Grates and drains in floor surface,4,1148
+sour,6695,Airport runways,4,1149
+sour,6699,"Floors, walkways, ground surfaces, n.e.c.",4,1150
+sour,67,Geographical structures,2,1151
+sour,670,"Geographical structures, unspecified",3,1152
+sour,671,"Raised natural structures, hills, mountains",3,1153
+sour,6710,"Raised natural structures, hills, mountains, unspecified",4,1154
+sour,6711,Hills,4,1155
+sour,6712,Mountains,4,1156
+sour,6719,"Raised natural structures, hills, mountains, n.e.c.",4,1157
+sour,672,"Recessed natural structures, valleys",3,1158
+sour,6720,"Recessed natural structures, valleys, unspecified",4,1159
+sour,6721,Valley,4,1160
+sour,6722,"Gorge, crevice",4,1161
+sour,6729,"Recessed natural structures, valleys n.e.c.",4,1162
+sour,673,Water bodies—natural,3,1163
+sour,6730,"Water bodies—natural, unspecified",4,1164
+sour,6731,Natural ponds,4,1165
+sour,6732,Lakes,4,1166
+sour,6733,"Rivers, streams",4,1167
+sour,6734,Oceans,4,1168
+sour,6739,"Water bodies—natural, n.e.c.",4,1169
+sour,679,"Geographical structures, n.e.c.",3,1170
+sour,69,"Structures and surfaces, n.e.c.",2,1171
+sour,7,"TOOLS, INSTRUMENTS, AND EQUIPMENT",1,1172
+sour,70,"Tools, instruments, and equipment, unspecified",2,1173
+sour,71,Handtools—nonpowered,2,1174
+sour,710,"Handtools—nonpowered, unspecified",3,1175
+sour,711,Boring handtools—nonpowered,3,1176
+sour,7110,"Boring handtools—nonpowered, unspecified",4,1177
+sour,7111,"Augers, plumbing snakes—nonpowered",4,1178
+sour,7112,Braces—nonpowered,4,1179
+sour,7113,Drills—nonpowered,4,1180
+sour,7119,"Boring handtools—nonpowered, n.e.c.",4,1181
+sour,712,Cutting handtools—nonpowered,3,1182
+sour,7120,"Cutting handtools—nonpowered, unspecified",4,1183
+sour,7121,"Axes, hatchets",4,1184
+sour,7122,Bolt cutters—nonpowered,4,1185
+sour,7123,Chisels—nonpowered,4,1186
+sour,7124,Box cutters and razor knives,4,1187
+sour,7125,"Knives, unspecified or n.e.c.",4,1188
+sour,7126,Saws—nonpowered,4,1189
+sour,7127,"Scissors, snips, shears—nonpowered",4,1190
+sour,7129,"Cutting handtools—nonpowered, n.e.c.",4,1191
+sour,713,Digging handtools—nonpowered,3,1192
+sour,7130,"Digging handtools—nonpowered, unspecified",4,1193
+sour,7131,Hoes,4,1194
+sour,7132,Picks,4,1195
+sour,7133,Shovels,4,1196
+sour,7134,Trowels,4,1197
+sour,7139,"Digging handtools—nonpowered, n.e.c.",4,1198
+sour,714,Gripping handtools—nonpowered,3,1199
+sour,7140,"Gripping handtools—nonpowered, unspecified",4,1200
+sour,7141,"Pliers, tongs",4,1201
+sour,7142,"Vises, clamps",4,1202
+sour,7149,"Gripping handtools—nonpowered, n.e.c.",4,1203
+sour,715,Striking and nailing handtools—nonpowered,3,1204
+sour,7150,"Striking and nailing handtools—nonpowered, unspecified",4,1205
+sour,7151,"Hammers, except sledge—nonpowered",4,1206
+sour,7152,Mallets,4,1207
+sour,7153,"Punches, counterpunches, countersinks—nonpowered",4,1208
+sour,7154,"Sledges, sledgehammers",4,1209
+sour,7155,"Toe kickers, knee kickers",4,1210
+sour,7159,"Striking and nailing handtools—nonpowered, n.e.c.",4,1211
+sour,716,Surfacing handtools—nonpowered,3,1212
+sour,7160,"Surfacing handtools—nonpowered, unspecified",4,1213
+sour,7161,Files—surfacing handtool,4,1214
+sour,7162,Planes—surfacing handtool,4,1215
+sour,7163,Sanders—nonpowered,4,1216
+sour,7164,Sharpening stones and wheels—nonpowered,4,1217
+sour,7165,Scrapers—nonpowered,4,1218
+sour,7166,Putty knives,4,1219
+sour,7169,"Surfacing handtools—nonpowered, n.e.c.",4,1220
+sour,717,Turning handtools—nonpowered,3,1221
+sour,7170,"Turning handtools—nonpowered, unspecified",4,1222
+sour,7171,Screwdrivers—nonpowered,4,1223
+sour,7172,Ratchet drivers—nonpowered ,4,1224
+sour,7173,Wrenches—nonpowered ,4,1225
+sour,7179,"Turning handtools—nonpowered, n.e.c.",4,1226
+sour,719,Other handtools—nonpowered,3,1227
+sour,7190,"Other handtools—nonpowered, unspecified",4,1228
+sour,7191,"Brooms, mops, and other cleaning tools",4,1229
+sour,7192,Crowbars,4,1230
+sour,7193,"Pitchforks, spading forks",4,1231
+sour,7194,Rakes,4,1232
+sour,7195,Stapling tools—nonpowered,4,1233
+sour,7196,Tape guns,4,1234
+sour,7199,"Handtools—nonpowered, n.e.c.",4,1235
+sour,72,Handtools—powered,2,1236
+sour,720,"Handtools—powered, unspecified",3,1237
+sour,721,Boring handtools—powered,3,1238
+sour,7210,"Boring handtools—powered, unspecified",4,1239
+sour,7211,"Augers, plumbing snakes—powered",4,1240
+sour,7212,Braces—powered,4,1241
+sour,7213,Drills—powered,4,1242
+sour,7214,Routers and molders—powered,4,1243
+sour,7219,"Boring handtools—powered, n.e.c",4,1244
+sour,722,Cutting handtools—powered,3,1245
+sour,7220,"Cutting handtools—powered, unspecified",4,1246
+sour,7221,Chainsaws—powered,4,1247
+sour,7222,Chisels—powered,4,1248
+sour,7223,Knives—powered,4,1249
+sour,7224,"Saws—powered, except chainsaws",4,1250
+sour,7225,"Lawn edgers, clippers, trimmers—powered",4,1251
+sour,7229,"Cutting handtools—powered, n.e.c.",4,1252
+sour,723,Striking and nailing handtools—powered,3,1253
+sour,7230,"Striking and nailing handtools—powered, unspecified",4,1254
+sour,7231,Hammers—powered,4,1255
+sour,7232,Jackhammers—powered,4,1256
+sour,7233,Punches—powered,4,1257
+sour,7234,Riveters—powered,4,1258
+sour,7235,Nail guns—powered,4,1259
+sour,7236,Stapling tools—electric or pneumatic,4,1260
+sour,7239,"Striking and nailing handtools—powered, n.e.c.",4,1261
+sour,724,Surfacing handtools—powered,3,1262
+sour,7240,"Surfacing handtools—powered, unspecified",4,1263
+sour,7241,"Buffers, polishers, waxers—powered",4,1264
+sour,7242,Hand grinders—powered,4,1265
+sour,7243,Sanders—powered,4,1266
+sour,7244,Sandblasters—powered,4,1267
+sour,7249,"Surfacing handtools—powered, n.e.c.",4,1268
+sour,725,Turning handtools—powered,3,1269
+sour,7250,"Turning handtools—powered, unspecified",4,1270
+sour,7251,Bolt setters—powered,4,1271
+sour,7252,Impact wrenches—powered,4,1272
+sour,7253,Screwdrivers—powered,4,1273
+sour,7254,Tongs—powered,4,1274
+sour,7259,"Turning handtools—powered, n.e.c.",4,1275
+sour,726,Welding and heating handtools—powered,3,1276
+sour,7260,"Welding and heating handtools—powered, unspecified",4,1277
+sour,7261,"Welding, cutting, and blow torches",4,1278
+sour,7262,Soldering irons—powered,4,1279
+sour,7263,Heat guns,4,1280
+sour,7269,"Welding and heating handtools—powered, n.e.c.",4,1281
+sour,729,Other handtools—powered,3,1282
+sour,7290,"Other handtools—powered, unspecified",4,1283
+sour,7291,Scrubbers—powered,4,1284
+sour,7292,"Sprayers, air guns—paint",4,1285
+sour,7293,Power washers,4,1286
+sour,7294,Laser pointers,4,1287
+sour,7295,Spreaders—powered,4,1288
+sour,7296,Push-pull rams—powered,4,1289
+sour,7299,"Handtools—powered, n.e.c.",4,1290
+sour,73,Handtools—power not determined,2,1291
+sour,730,"Handtools—power not determined, unspecified",3,1292
+sour,731,Boring handtools—power not determined,3,1293
+sour,7310,"Boring handtools—power not determined, unspecified",4,1294
+sour,7311,"Augers, plumbing snakes—power not determined",4,1295
+sour,7312,Braces—power not determined,4,1296
+sour,7313,Drills—power not determined,4,1297
+sour,7319,"Boring handtools—power not determined, n.e.c.",4,1298
+sour,732,Cutting handtools—power not determined,3,1299
+sour,7320,"Cutting handtools—power not determined, unspecified",4,1300
+sour,7321,Chisels—power not determined,4,1301
+sour,7322,Knives—power not determined,4,1302
+sour,7323,Saws—power not determined,4,1303
+sour,7329,"Cutting handtools—power not determined, n.e.c.",4,1304
+sour,733,Striking and nailing handtools—power not determined,3,1305
+sour,7330,"Striking and nailing handtools—power not determined, unspecified",4,1306
+sour,7331,Hammers—power not determined,4,1307
+sour,7332,Punches—power not determined,4,1308
+sour,7339,"Striking and nailing handtools—power not determined, n.e.c.",4,1309
+sour,734,Surfacing handtools—power not determined,3,1310
+sour,7340,"Surfacing handtools—power not determined, unspecified",4,1311
+sour,7341,Sanders—power not determined,4,1312
+sour,7349,"Surfacing handtools—power not determined, n.e.c.",4,1313
+sour,735,Turning handtools—power not determined,3,1314
+sour,7350,"Turning handtools—power not determined, unspecified",4,1315
+sour,7351,Screwdrivers—power not determined,4,1316
+sour,7352,Wrenches—power not determined,4,1317
+sour,7359,"Turning handtools—power not determined, n.e.c.",4,1318
+sour,736,Measuring handtools,3,1319
+sour,7360,"Measuring handtools, unspecified",4,1320
+sour,7361,"Calipers, micrometers",4,1321
+sour,7362,Dividers,4,1322
+sour,7363,Gauges,4,1323
+sour,7364,Levels,4,1324
+sour,7365,Plumb bobs,4,1325
+sour,7366,"Rulers, tape measures",4,1326
+sour,7367,Squares,4,1327
+sour,7368,Scales,4,1328
+sour,7369,"Measuring handtools, n.e.c.",4,1329
+sour,739,Other handtools—power not determined,3,1330
+sour,7391,Staplers—power not determined,4,1331
+sour,7399,"Handtools—power not determined, n.e.c.",4,1332
+sour,74,Ladders,2,1333
+sour,740,"Ladders, unspecified",3,1334
+sour,741,Ladders—fixed,3,1335
+sour,742,Ladders—movable,3,1336
+sour,7420,"Movable ladders, unspecified",4,1337
+sour,7421,Extension ladders,4,1338
+sour,7422,Step ladders,4,1339
+sour,7423,Straight ladders,4,1340
+sour,7424,"Truck mounted ladders, aerial ladder trams",4,1341
+sour,7429,"Movable ladders, n.e.c.",4,1342
+sour,749,"Ladders, n.e.c.",3,1343
+sour,75,Medical and surgical instruments and equipment,2,1344
+sour,750,"Medical and surgical instruments and equipment, unspecified",3,1345
+sour,751,Medical sharps instruments,3,1346
+sour,7510,"Medical sharps instruments, unspecified",4,1347
+sour,7511,"Needles, syringes",4,1348
+sour,7512,Scalpels,4,1349
+sour,7519,"Medical sharps instruments, n.e.c.",4,1350
+sour,752,Health care and orthopedic equipment,3,1351
+sour,7520,"Health care and orthopedic equipment, unspecified",4,1352
+sour,7521,"Canes, crutches, walkers",4,1353
+sour,7529,"Health care and orthopedic equipment, n.e.c.",4,1354
+sour,753,Wheelchairs and other mobility devices,3,1355
+sour,7530,"Wheelchairs and other mobility devices, unspecified",4,1356
+sour,7531,Wheelchairs—powered,4,1357
+sour,7532,Mobility scooters—powered,4,1358
+sour,7533,Wheelchairs—nonpowered,4,1359
+sour,7539,"Wheelchairs and other mobility devices, n.e.c.",4,1360
+sour,754,Latex gloves,3,1361
+sour,755,"Stretchers, backboards, wheeled cots, stair chairs",3,1362
+sour,756,Intravenous (IV) poles and machines,3,1363
+sour,757,"Patient hoists, lifting harnesses",3,1364
+sour,759,"Medical and surgical instruments and equipment, n.e.c.",3,1365
+sour,76,"Photographic, athletic, and recreational equipment",2,1366
+sour,760,"Photographic, athletic, and recreational equipment, unspecified",3,1367
+sour,761,Photographic equipment,3,1368
+sour,7610,"Photographic equipment, unspecified",4,1369
+sour,7611,Cameras—still and motion picture,4,1370
+sour,7612,Photographic paper and cloth,4,1371
+sour,7613,Projectors—still and motion picture,4,1372
+sour,7614,Screens—still and motion picture ,4,1373
+sour,7615,"Tripods, camera stands",4,1374
+sour,7619,"Photographic equipment, n.e.c.",4,1375
+sour,762,"Writing, drawing, and art supplies",3,1376
+sour,7620,"Writing, drawing, and art supplies, unspecified",4,1377
+sour,7621,Pens and pencils,4,1378
+sour,7622,"Chalk, crayons, marking devices",4,1379
+sour,7623,"Art supplies and materials, except paint",4,1380
+sour,7624,"Compasses, protractors",4,1381
+sour,7629,"Writing, drawing, and art supplies, n.e.c.",4,1382
+sour,763,Recreation and athletic equipment,3,1383
+sour,7630,"Recreation and athletic equipment, unspecified",4,1384
+sour,7631,"Balls, pucks",4,1385
+sour,7632,"Baseball bats, hockey sticks, rackets",4,1386
+sour,7633,Gymnasium and exercise equipment,4,1387
+sour,7634,Camping equipment,4,1388
+sour,7635,Playground equipment,4,1389
+sour,7636,Riding equipment,4,1390
+sour,7637,Snow sports equipment,4,1391
+sour,7638,Water sports equipment,4,1392
+sour,7639,"Recreation and athletic equipment, n.e.c.",4,1393
+sour,769,"Photographic, athletic, and recreational equipment, n.e.c.",3,1394
+sour,77,"Protective equipment, except clothing",2,1395
+sour,770,"Protective equipment, except clothing, unspecified",3,1396
+sour,771,Dust masks,3,1397
+sour,772,"Ear plugs, hearing protectors",3,1398
+sour,773,"Face shields, welding masks",3,1399
+sour,774,Hard hats,3,1400
+sour,775,"Lifelines, lanyards, safety belts, harnesses",3,1401
+sour,776,Respirators,3,1402
+sour,777,Safety glasses or goggles,3,1403
+sour,779,"Protective equipment, except clothing, n.e.c.",3,1404
+sour,78,"Firearms, law enforcement, and other self-defense equipment",2,1405
+sour,780,"Firearms, law enforcement, and other self-defense equipment, unspecified",3,1406
+sour,781,Firearms,3,1407
+sour,7810,"Firearm, unspecified",4,1408
+sour,7811,"Pistol, handgun, revolver",4,1409
+sour,7812,"Rifle, shotgun",4,1410
+sour,7813,Explosive devices ,4,1411
+sour,7819,"Firearm, n.e.c.",4,1412
+sour,782,Ammunition,3,1413
+sour,783,Other law enforcement and self-defense equipment,3,1414
+sour,7830,"Other law enforcement and self-defense equipment, unspecified",4,1415
+sour,7831,"Batons, nightsticks",4,1416
+sour,7832,"Tasers, stun guns",4,1417
+sour,7833,"Tear gas, mace, pepper spray",4,1418
+sour,7834,Handcuffs,4,1419
+sour,7839,"Law enforcement and self-defense equipment, n.e.c.",4,1420
+sour,784,"Air-powered guns, paintball guns",3,1421
+sour,789,"Firearms, law enforcement, and other self-defense equipment, n.e.c.",3,1422
+sour,79,"Other tools, instruments, and equipment",2,1423
+sour,790,"Other tools, instruments, and equipment, unspecified",3,1424
+sour,791,Clocks,3,1425
+sour,792,"Cooking and eating utensils, except knives",3,1426
+sour,793,Musical instruments,3,1427
+sour,7930,"Musical instrument, unspecified",4,1428
+sour,7931,"Pianos, organs, keyboards",4,1429
+sour,7939,"Musical instruments, n.e.c.",4,1430
+sour,794,Sewing notions,3,1431
+sour,7940,"Sewing notions, unspecified",4,1432
+sour,7941,"Fabric pins, safety pins",4,1433
+sour,7942,Sewing needles,4,1434
+sour,7949,"Sewing notions, n.e.c.",4,1435
+sour,795,Fishing equipment ,3,1436
+sour,7950,"Fishing equipment, unspecified",4,1437
+sour,7951,Recreational fishing equipment,4,1438
+sour,7952,Commercial fishing equipment,4,1439
+sour,7959,"Fishing equipment, n.e.c.",4,1440
+sour,799,"Tools, instruments, and equipment, n.e.c.",3,1441
+sour,8,VEHICLES,1,1442
+sour,80,"Vehicle, unspecified",2,1443
+sour,81,Aircraft,2,1444
+sour,810,Aircraft unspecified,3,1445
+sour,811,Airplanes—powered fixed wing,3,1446
+sour,8110,"Airplane—powered fixed wing, unspecified",4,1447
+sour,8111,Airplane—jet or turbine engine,4,1448
+sour,8112,Airplane—propeller-driven or piston engine,4,1449
+sour,8119,"Airplane—powered fixed wing, n.e.c",4,1450
+sour,812,Aircraft—powered rotary wing,3,1451
+sour,8120,"Aircraft—powered rotary wing, unspecified",4,1452
+sour,8121,Helicopter,4,1453
+sour,8129,"Aircraft—powered rotary wing, n.e.c",4,1454
+sour,813,Aircraft—nonpowered,3,1455
+sour,8130,"Aircraft—nonpowered, unspecified",4,1456
+sour,8131,"Glider, hang glider—nonpowered",4,1457
+sour,8132,Parachute,4,1458
+sour,8139,"Aircraft—nonpowered, n.e.c",4,1459
+sour,819,"Aircraft, n.e.c",3,1460
+sour,82,Rail vehicles,2,1461
+sour,820,"Rail vehicle, unspecified",3,1462
+sour,821,Amusement park rail vehicle,3,1463
+sour,822,"Streetcar, trolley, cable car, light rail",3,1464
+sour,823,"Subway, elevated train",3,1465
+sour,824,"Train, locomotive, rail car",3,1466
+sour,8240,"Train, locomotive, rail car, unspecified",4,1467
+sour,8241,Freight train,4,1468
+sour,8242,"Passenger train, heavy rail",4,1469
+sour,8243,Locomotive—unattached to rail car(s),4,1470
+sour,8244,Rail car(s)—unattached to locomotive,4,1471
+sour,8249,"Train, locomotive, rail car, n.e.c.",4,1472
+sour,825,"Rail-mounted construction, cleaning, maintenance machine",3,1473
+sour,826,"Industrial, mining rail vehicle",3,1474
+sour,829,"Rail vehicle, n.e.c",3,1475
+sour,83,Water vehicles,2,1476
+sour,830,"Water vehicle, unspecified",3,1477
+sour,831,Barge,3,1478
+sour,832,Commercial fishing vessel,3,1479
+sour,833,"Tugboat, towboat",3,1480
+sour,834,"Cargo ship, freighter, passenger liner, ship, excluding sail-powered",3,1481
+sour,835,"Motorboat, motorized yacht",3,1482
+sour,836,Sailboat,3,1483
+sour,837,"Rowboat, kayak, canoe",3,1484
+sour,838,"Raft, floating dock",3,1485
+sour,839,"Water vehicle, n.e.c",3,1486
+sour,84,"Highway vehicles, motorized",2,1487
+sour,840,"Highway vehicle, motorized, unspecified",3,1488
+sour,841,"Passenger vehicles—automobiles, buses, and passenger vans",3,1489
+sour,8410,"Passenger vehicle, unspecified",4,1490
+sour,8411,"Ambulance, police, and other emergency passenger vehicle",4,1491
+sour,8412,Taxi,4,1492
+sour,8413,Automobile,4,1493
+sour,8414,Bus,4,1494
+sour,8415,Passenger van,4,1495
+sour,8416,"Motorcycle, moped, dirt bike",4,1496
+sour,8417,"Motor home, RV",4,1497
+sour,8419,"Passenger vehicle, n.e.c",4,1498
+sour,842,Trucks—motorized freight hauling and utility,3,1499
+sour,8420,"Truck—motorized freight hauling and utility, unspecified",4,1500
+sour,8421,"Semi, tractor-trailer, tanker truck",4,1501
+sour,8422,"Boom truck, bucket or basket hoist truck",4,1502
+sour,8423,Dump truck,4,1503
+sour,8424,"Garbage, recycling, or refuse truck",4,1504
+sour,8425,"Fire truck, other emergency equipment truck",4,1505
+sour,8426,Delivery truck or van,4,1506
+sour,8427,"Cement truck, concrete mixer truck",4,1507
+sour,8428,Tow truck,4,1508
+sour,8429,"Truck—motorized freight hauling and utility, n.e.c",4,1509
+sour,843,Multi-purpose highway vehicles,3,1510
+sour,8430,"Multi-purpose highway vehicle, unspecified",4,1511
+sour,8431,Pickup truck,4,1512
+sour,8432,"SUV, sports utility vehicle",4,1513
+sour,8439,"Multi-purpose highway vehicle, n.e.c.",4,1514
+sour,849,"Highway vehicle, motorized, n.e.c.",3,1515
+sour,85,Animal- and human- powered vehicles,2,1516
+sour,850,"Animal- or human-powered vehicle, unspecified",3,1517
+sour,851,"Bicycle, pedal cycle",3,1518
+sour,852,"Horse-drawn carriage, buggy",3,1519
+sour,853,Animal-powered wagon,3,1520
+sour,859,"Animal- or human-powered vehicle, n.e.c.",3,1521
+sour,86,Off-road and industrial vehicles—powered,2,1522
+sour,860,"Off-road or industrial vehicle—powered, unspecified",3,1523
+sour,861,Off-road passenger vehicles—powered,3,1524
+sour,8610,"Off-road passenger vehicle—powered, unspecified",4,1525
+sour,8611,"ATV, all terrain vehicle",4,1526
+sour,8612,"Golf cart, personnel transport cart",4,1527
+sour,8613,Racecar,4,1528
+sour,8614,Snowmobile,4,1529
+sour,8619,"Off-road passenger vehicles—powered, n.e.c",4,1530
+sour,862,"Industrial vehicles, material hauling and transport—powered",3,1531
+sour,8620,"Industrial vehicle, material hauling and transport—powered, unspecified",4,1532
+sour,8621,"Forklift, order picker, platform truck—powered",4,1533
+sour,8622,Powered industrial carrier,4,1534
+sour,8623,Pallet jack—powered,4,1535
+sour,8624,Airport utility vehicle—powered,4,1536
+sour,8629,"Industrial vehicle, material hauling and transport—powered, n.e.c",4,1537
+sour,863,"Tractors, PTOs",3,1538
+sour,8630,"Tractor, unspecified",4,1539
+sour,8631,Farm tractor,4,1540
+sour,8632,Construction tractor,4,1541
+sour,8633,Industrial tractor,4,1542
+sour,8634,Power take-off (PTO),4,1543
+sour,8639,"Tractor, n.e.c.",4,1544
+sour,869,"Off-road or industrial vehicle—powered, n.e.c",3,1545
+sour,87,Plant and industrial vehicles—nonpowered,2,1546
+sour,870,"Plant and industrial vehicle—nonpowered, unspecified",3,1547
+sour,871,"Cart, dolly, hand truck—nonpowered",3,1548
+sour,872,Pallet jack—nonpowered,3,1549
+sour,873,Wagon,3,1550
+sour,874,Wheelbarrow,3,1551
+sour,875,"Shopping cart, grocery carriage—nonpowered ",3,1552
+sour,879,"Plant and industrial vehicle—nonpowered, n.e.c",3,1553
+sour,89,Other vehicles,2,1554
+sour,890,"Other vehicles, unspecified",3,1555
+sour,891,Armored personnel carrier,3,1556
+sour,892,Tank,3,1557
+sour,893,Humvee,3,1558
+sour,894,Street sweeping and cleaning machinery,3,1559
+sour,899,"Vehicle, n.e.c",3,1560
+sour,9,OTHER SOURCES,1,1561
+sour,90,"Other sources, unspecified",2,1562
+sour,91,Apparel and textiles,2,1563
+sour,910,"Apparel and textiles, unspecified",3,1564
+sour,911,Clothing and shoes,3,1565
+sour,9110,"Clothing, unspecified",4,1566
+sour,9111,"Belts, gloves, neckties, scarves",4,1567
+sour,9112,"Blouses, shirts, dresses, trousers, skirts",4,1568
+sour,9113,"Hats, caps",4,1569
+sour,9114,"Shoes, boots, slippers, sandals",4,1570
+sour,9115,"Suits, coats, jackets",4,1571
+sour,9119,"Clothing, n.e.c.",4,1572
+sour,912,"Eye glasses, jewelry, and watches",3,1573
+sour,9120,"Eye glasses, jewelry, and watches, unspecified",4,1574
+sour,9121,"Eye glasses, sunglasses",4,1575
+sour,9122,"Jewelry, ID badge lanyards",4,1576
+sour,9123,Watches,4,1577
+sour,913,Textiles ,3,1578
+sour,9130,"Textiles, unspecified",4,1579
+sour,9131,Fabric,4,1580
+sour,9132,"Yarn, thread",4,1581
+sour,9139,"Textiles, n.e.c.",4,1582
+sour,914,Laundry,3,1583
+sour,915,"Sheets, towels, linens, bedding",3,1584
+sour,919,"Apparel and textiles, n.e.c.",3,1585
+sour,92,Environmental and elemental conditions,2,1586
+sour,920,"Environmental and elemental conditions, unspecified",3,1587
+sour,921,Air pressure,3,1588
+sour,9210,"Air pressure, unspecified",4,1589
+sour,9211,Atmospheric pressure—high or low,4,1590
+sour,9212,Pressurized air—environmental,4,1591
+sour,9213,Pressurized air—blast,4,1592
+sour,9219,"Air pressure, n.e.c.",4,1593
+sour,922,"Avalanche, mudslide",3,1594
+sour,923,Earthquake,3,1595
+sour,924,"Fire, flame, smoke",3,1596
+sour,9240,"Fire, flame, smoke, unspecified",4,1597
+sour,9241,"Fire, flame",4,1598
+sour,9242,Tobacco smoke,4,1599
+sour,9243,"Smoke, fire gases, n.e.c.",4,1600
+sour,9248,"Multiple fire, flame, smoke",4,1601
+sour,925,Flooding and other water sources,3,1602
+sour,9250,"Flooding and other water sources, unspecified",4,1603
+sour,9251,Flooding,4,1604
+sour,9252,"Waves, surges, rough seas",4,1605
+sour,9253,Water pressure—high or low,4,1606
+sour,9254,Pressurized water—blast,4,1607
+sour,9259,"Flooding and other water sources, n.e.c.",4,1608
+sour,926,Temperature extremes—environmental,3,1609
+sour,9260,"Temperature extremes—environmental, unspecified",4,1610
+sour,9261,Cold—environmental,4,1611
+sour,9262,Heat—environmental,4,1612
+sour,927,Weather and atmospheric conditions,3,1613
+sour,9270,"Weather and atmospheric conditions, unspecified",4,1614
+sour,9271,Fog,4,1615
+sour,9272,"High winds, gusts, turbulence",4,1616
+sour,9273,"Ice, sleet, snow",4,1617
+sour,9274,Lightning,4,1618
+sour,9275,Rain,4,1619
+sour,9276,"Smog, poor outdoor air quality",4,1620
+sour,9277,"Tornado, hurricane, typhoon",4,1621
+sour,9278,Multiple weather and atmospheric conditions,4,1622
+sour,9279,"Weather and atmospheric conditions, n.e.c.",4,1623
+sour,929,Other environmental and elemental conditions,3,1624
+sour,9291,Noise,4,1625
+sour,9292,Sun,4,1626
+sour,9293,Welders’ flash,4,1627
+sour,9294,Other ultraviolet (UV) light,4,1628
+sour,9295,Microwaves,4,1629
+sour,9296,Poor indoor air quality,4,1630
+sour,9297,Oxygen-deficient environment,4,1631
+sour,9299,"Environmental and elemental conditions, n.e.c.",4,1632
+sour,93,"Paper, books, magazines",2,1633
+sour,930,"Paper, books, magazines, unspecified",3,1634
+sour,931,"Books, notebooks, magazines, catalogues",3,1635
+sour,932,"Paper, sheets",3,1636
+sour,933,"Binders, files, charts",3,1637
+sour,939,"Paper, books, magazines, n.e.c.",3,1638
+sour,94,"Scrap, waste, debris",2,1639
+sour,940,"Scrap, waste, debris, unspecified",3,1640
+sour,941,"Chips, particles, splinters",3,1641
+sour,9410,"Chips, particles, splinters, unspecified",4,1642
+sour,9411,"Dirt particles and dust from dirt, debris",4,1643
+sour,9412,"Broken glass, glass chips, or fibers",4,1644
+sour,9413,"Metal chips, particles",4,1645
+sour,9414,"Wood chips, sawdust",4,1646
+sour,9415,Wood splinters,4,1647
+sour,9416,"Plastic chips, particles",4,1648
+sour,9419,"Chips, particles, splinters, n.e.c.",4,1649
+sour,942,Sewage,3,1650
+sour,943,Construction debris,3,1651
+sour,944,"Trash, garbage",3,1652
+sour,945,Scrap metal,3,1653
+sour,949,"Scrap, waste, debris, n.e.c.",3,1654
+sour,95,"Other steam, vapors, liquids, ice",2,1655
+sour,950,"Steam, vapors, liquids, ice, unspecified",3,1656
+sour,951,"Steam, vapors—nonchemical",3,1657
+sour,952,Liquids—nonchemical,3,1658
+sour,9520,"Liquids, unspecified",4,1659
+sour,9521,Water,4,1660
+sour,9529,"Liquids, n.e.c.",4,1661
+sour,953,"Ice—blocks, cubes, crushed",3,1662
+sour,959,"Steam, vapors, liquids, ice, n.e.c.",3,1663
+sour,99,"Source, n.e.c.",2,1664
+sour,9999,Nonclassifiable,4,1665

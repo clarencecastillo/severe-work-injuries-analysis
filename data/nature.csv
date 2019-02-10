@@ -1,0 +1,616 @@
+﻿CASE_CODE_TYPE,CASE_CODE,CASE_CODE_TITLE,Hierarchy_level,Sort_sequence
+natu,1,TRAUMATIC INJURIES AND DISORDERS,1,1
+natu,10,"Traumatic injuries and disorders, unspecified",2,2
+natu,11,"Traumatic injuries to bones, nerves, spinal cord",2,3
+natu,110,"Traumatic injuries to bones, nerves, spinal cord, unspecified",3,4
+natu,111,Fractures,3,5
+natu,112,Traumatic injuries to spinal cord,3,6
+natu,1120,"Traumatic injuries to spinal cord, unspecified",4,7
+natu,1121,"Paralysis, paraplegia, quadriplegia",4,8
+natu,1129,"Traumatic injuries to spinal cord, n.e.c.",4,9
+natu,113,"Traumatic injuries to nerves, except the spinal cord",3,10
+natu,1130,"Traumatic injuries to nerves, except the spinal cord, unspecified",4,11
+natu,1131,Pinched nerve ,4,12
+natu,1139,"Traumatic injuries to nerves, except the spinal cord, n.e.c.",4,13
+natu,118,"Multiple traumatic injuries to bones, nerves, spinal cord",3,14
+natu,119,"Traumatic injuries to bones, nerves, spinal cord, n.e.c.",3,15
+natu,12,"Traumatic injuries to muscles, tendons, ligaments, joints, etc.",2,16
+natu,120,"Traumatic injuries to muscles, tendons, ligaments, joints, etc., unspecified",3,17
+natu,121,Dislocations,3,18
+natu,1210,"Dislocations, unspecified",4,19
+natu,1211,Herniated discs,4,20
+natu,1212,Dislocation of joints,4,21
+natu,1218,Multiple types of dislocations,4,22
+natu,1219,"Dislocations, n.e.c.",4,23
+natu,122,Cartilage fractures and tears,3,24
+natu,1220,"Cartilage fractures and tears, unspecified",4,25
+natu,1221,Meniscus tears,4,26
+natu,1229,"Cartilage fractures and tears, n.e.c.",4,27
+natu,123,"Sprains, strains, tears",3,28
+natu,1230,"Sprains, strains, tears, unspecified",4,29
+natu,1231,"Major tears to muscles, tendons, ligaments",4,30
+natu,1232,Sprains,4,31
+natu,1233,Strains,4,32
+natu,1238,"Multiple sprains, strains, tears",4,33
+natu,124,Hernias due to traumatic incidents,3,34
+natu,125,Whiplash,3,35
+natu,128,"Multiple traumatic injuries to muscles, tendons, ligaments, joints, etc.",3,36
+natu,129,"Traumatic injuries to muscles, tendons, ligaments, joints, etc., n.e.c.",3,37
+natu,13,Open wounds,2,38
+natu,130,"Open wounds, unspecified",3,39
+natu,131,"Amputations, avulsions, enucleations",3,40
+natu,1310,"Amputations, avulsions, enucleations, unspecified",4,41
+natu,1311,Amputations,4,42
+natu,1312,"Avulsions, enucleations",4,43
+natu,1319,"Amputations, avulsions, enucleations, n.e.c.",4,44
+natu,132,"Cuts, lacerations",3,45
+natu,133,"Puncture wounds, except gunshot wounds",3,46
+natu,134,Gunshot wounds,3,47
+natu,138,Multiple types of open wounds,3,48
+natu,139,"Open wounds, n.e.c.",3,49
+natu,14,Surface wounds and bruises,2,50
+natu,140,"Surface wounds and bruises, unspecified",3,51
+natu,141,"Abrasions, scratches",3,52
+natu,142,Blisters,3,53
+natu,143,"Bruises, contusions",3,54
+natu,148,Multiple surface wounds and bruises,3,55
+natu,149,"Surface wounds and bruises, n.e.c.",3,56
+natu,15,Burns and corrosions,2,57
+natu,150,"Burns and corrosions, unspecified ",3,58
+natu,151,Chemical burns and corrosions,3,59
+natu,1510,"Chemical burns and corrosions, unspecified",4,60
+natu,1511,First degree chemical burns and corrosions,4,61
+natu,1512,Second degree chemical burns and corrosions,4,62
+natu,1513,Third or fourth degree chemical burns and corrosions,4,63
+natu,1519,"Chemical burns and corrosions, n.e.c.",4,64
+natu,152,Heat (thermal) burns,3,65
+natu,1520,"Heat (thermal) burns, unspecified",4,66
+natu,1521,First degree heat (thermal) burns,4,67
+natu,1522,Second degree heat (thermal) burns,4,68
+natu,1523,Third or fourth degree heat (thermal) burns,4,69
+natu,1529,"Heat (thermal) burns, n.e.c.",4,70
+natu,153,Electrical burns,3,71
+natu,1530,"Electrical burns, unspecified",4,72
+natu,1531,First degree electrical burns,4,73
+natu,1532,Second degree electrical burns,4,74
+natu,1533,Third or fourth degree electrical burns,4,75
+natu,1539,"Electrical burns, n.e.c.",4,76
+natu,159,Other burns,3,77
+natu,1590,"Other burns, unspecified",4,78
+natu,1591,"Other burns, first degree",4,79
+natu,1592,"Other burns, second degree",4,80
+natu,1593,"Other burns, third or fourth degree",4,81
+natu,1599,"Other burns, n.e.c.",4,82
+natu,16,Intracranial injuries,2,83
+natu,160,"Intracranial injuries, unspecified",3,84
+natu,161,Cerebral and other intracranial hemorrhages,3,85
+natu,162,Concussions,3,86
+natu,168,Multiple types of intracranial injuries,3,87
+natu,1680,"Multiple intracranial injuries, unspecified",4,88
+natu,1681,Skull fracture and intracranial injury,4,89
+natu,1689,"Multiple intracranial injuries, n.e.c.",4,90
+natu,169,"Intracranial injuries, n.e.c.",3,91
+natu,17,Effects of environmental conditions,2,92
+natu,170,"Effects of environmental conditions, unspecified",3,93
+natu,171,Effects of reduced temperature,3,94
+natu,1710,"Effects of reduced temperature, unspecified",4,95
+natu,1711,Frostbite,4,96
+natu,1712,Hypothermia,4,97
+natu,1718,Multiple effects of reduced temperature,4,98
+natu,1719,"Effects of reduced temperature, n.e.c.",4,99
+natu,172,Effects of heat and light,3,100
+natu,1720,"Effects of heat and light, unspecified",4,101
+natu,1721,Heat stroke,4,102
+natu,1722,Heat syncope,4,103
+natu,1723,Heat fatigue,4,104
+natu,1724,Heat edema,4,105
+natu,1725,"Heat exhaustion, prostration",4,106
+natu,1728,Multiple effects of heat and light,4,107
+natu,1729,"Effects of heat and light, n.e.c.",4,108
+natu,173,Effects of air or water pressure,3,109
+natu,1730,"Effects of air or water pressure, unspecified",4,110
+natu,1731,Aero-otitis media,4,111
+natu,1732,Aerosinusitis,4,112
+natu,1733,"Caisson disease, bends, divers' palsy",4,113
+natu,1738,Multiple effects of air or water pressure,4,114
+natu,1739,"Effects of air or water pressure, n.e.c.",4,115
+natu,178,Multiple effects of environmental conditions,3,116
+natu,179,"Effects of environmental conditions, n.e.c.",3,117
+natu,18,Multiple traumatic injuries and disorders,2,118
+natu,180,"Multiple traumatic injuries and disorders, unspecified",3,119
+natu,181,Cuts and abrasions or bruises,3,120
+natu,182,Sprains and other injuries,3,121
+natu,1820,"Sprains and other injuries, unspecified",4,122
+natu,1821,Sprains and bruises,4,123
+natu,1822,Sprains and cuts,4,124
+natu,1829,"Sprains and other injuries, n.e.c.",4,125
+natu,183,Fractures and other injuries,3,126
+natu,1830,"Fractures and other injuries, unspecified",4,127
+natu,1831,Fractures (except skull fractures) and concussions ,4,128
+natu,1832,"Fractures (except rib, trunk fractures) and internal injuries ",4,129
+natu,1833,Fractures and burns,4,130
+natu,1834,Fractures and dislocations,4,131
+natu,1839,"Fractures and other injuries, n.e.c.",4,132
+natu,184,"Burns and other injuries, except fractures",3,133
+natu,1840,"Burns and other injuries, except fractures, unspecified",4,134
+natu,1841,Burns and smoke inhalation,4,135
+natu,1849,"Burns and other injuries, n.e.c.",4,136
+natu,185,Intracranial injuries and injuries to internal organs,3,137
+natu,189,"Multiple traumatic injuries and disorders, n.e.c.",3,138
+natu,19,Other traumatic injuries and disorders,2,139
+natu,190,"Other traumatic injuries and disorders, unspecified",3,140
+natu,191,"Asphyxiations, strangulations, suffocations",3,141
+natu,192,Drownings,3,142
+natu,193,"Electrocutions, electric shocks",3,143
+natu,194,Internal injuries to organs and blood vessels of the trunk,3,144
+natu,195,Dermatitis and reactions affecting the skin—acute,3,145
+natu,1950,"Dermatitis and reactions affecting the skin—acute, unspecified",4,146
+natu,1951,Allergic dermatitis—acute ,4,147
+natu,1952,Irritant dermatitis—acute,4,148
+natu,1953,"Hives, urticaria—acute",4,149
+natu,1958,Multiple types of dermatitis and skin reactions—acute,4,150
+natu,1959,"Dermatitis and reactions affecting the skin—acute, n.e.c.",4,151
+natu,196,"Other poisoning, toxic, noxious, or allergenic effects",3,152
+natu,1960,"Poisoning, toxic, noxious, or allergenic effect, unspecified",4,153
+natu,1961,"Poisoning, including poisoning-related asphyxia",4,154
+natu,1962,"Anaphylactic shock, anaphylaxis",4,155
+natu,1963,"Other respiratory system symptoms—toxic, noxious, or allergenic effect ",4,156
+natu,1964,"Coughing and throat irritation— toxic, noxious, or allergenic effect",4,157
+natu,1965,"Dizziness, lightheadedness, headache—toxic, noxious, or allergenic effect",4,158
+natu,1966,Other or unspecified allergic reactions ,4,159
+natu,1967,"Nausea, vomiting— toxic, noxious, or allergenic effect",4,160
+natu,1968,"Multiple poisoning, toxic, noxious, or allergenic effects",4,161
+natu,1969,"Other poisoning, toxic, noxious, or allergenic effects, n.e.c.",4,162
+natu,197,Nonspecified injuries and disorders,3,163
+natu,1971,Crushing injuries,4,164
+natu,1972,"Soreness, pain, hurt—nonspecified injury",4,165
+natu,1973,"Swelling, inflammation, irritation—nonspecified injury",4,166
+natu,1974,Numbness—nonspecified injury,4,167
+natu,1978,Multiple nonspecified injuries and disorders,4,168
+natu,1979,"Nonspecified injuries and disorders, n.e.c.",4,169
+natu,199,"Other traumatic injuries and disorders, n.e.c.",3,170
+natu,1991,Traumatic shock ,4,171
+natu,1992,"Embolism, air or fat",4,172
+natu,1999,"Traumatic injuries and disorders, n.e.c.",4,173
+natu,2,DISEASES AND DISORDERS OF BODY SYSTEMS,1,174
+natu,20,"Systemic diseases and disorders, unspecified",2,175
+natu,21,Anemia and other diseases of the blood and blood forming organs,2,176
+natu,22,Nervous system and sense organs diseases,2,177
+natu,220,"Nervous system and sense organs diseases, unspecified",3,178
+natu,221,Inflammatory diseases of the central nervous system,3,179
+natu,222,Degenerative diseases of the central nervous system,3,180
+natu,223,Other disorders of the central nervous system,3,181
+natu,2230,"Other disorders of the central nervous system, unspecified",4,182
+natu,2231,"Seizure disorder, epilepsy",4,183
+natu,2232,Migraine,4,184
+natu,2239,"Other disorders of the central nervous system, n.e.c.",4,185
+natu,224,Disorders of the peripheral nervous system,3,186
+natu,2240,"Disorders of the peripheral nervous system, unspecified",4,187
+natu,2241,Carpal tunnel syndrome,4,188
+natu,2242,"Inflammatory and toxic neuropathy, toxic polyneuropathy",4,189
+natu,2243,Toxic myoneural disorders,4,190
+natu,2244,Tarsal tunnel syndrome,4,191
+natu,2249,"Disorders of the peripheral nervous system, n.e.c.",4,192
+natu,225,"Disorders of the eye, adnexa, vision",3,193
+natu,2250,"Disorders of the eye, adnexa, vision, unspecified",4,194
+natu,2251,Conjunctivitis—non-viral,4,195
+natu,2252,"Inflammation except conjunctivitis (including ophthalmia, iritis, chalazion)",4,196
+natu,2253,Cataracts,4,197
+natu,2254,"Blindness, low vision",4,198
+natu,2255,Glaucoma,4,199
+natu,2256,Visual disturbances,4,200
+natu,2259,"Disorders of the eye, adnexa, vision, n.e.c.",4,201
+natu,226,"Disorders of the ear, mastoid process, hearing",3,202
+natu,2260,"Disorders of the ear, mastoid process, hearing, unspecified",4,203
+natu,2261,"Deafness, hearing loss and impairment",4,204
+natu,2262,Tinnitis,4,205
+natu,2269,"Disorders of the ear, mastoid process, and hearing, n.e.c.",4,206
+natu,229,"Nervous system and sense organs diseases, n.e.c.",3,207
+natu,23,Circulatory system diseases,2,208
+natu,230,"Circulatory system diseases, unspecified",3,209
+natu,231,Rheumatic fever with heart involvement,3,210
+natu,232,Hypertensive disease,3,211
+natu,233,"Ischemic heart disease, including heart attack",3,212
+natu,2330,"Ischemic heart disease, unspecified",4,213
+natu,2331,Myocardial infarction (heart attack),4,214
+natu,2332,Angina,4,215
+natu,2339,"Ischemic heart disease, n.e.c.",4,216
+natu,234,Diseases of pulmonary circulation,3,217
+natu,2340,"Diseases of pulmonary circulation, unspecified",4,218
+natu,2341,Pulmonary heart disease,4,219
+natu,2342,Pulmonary embolism,4,220
+natu,2349,"Diseases of pulmonary circulation, n.e.c.",4,221
+natu,235,Other forms of heart disease,3,222
+natu,2350,"Other forms of heart disease, unspecified",4,223
+natu,2351,Toxic myocarditis,4,224
+natu,2352,Heart failure,4,225
+natu,2353,Ill-defined descriptions and complications of heart disease,4,226
+natu,2359,"Other forms of heart disease, n.e.c.",4,227
+natu,236,Cerebrovascular disease,3,228
+natu,2360,"Cerebrovascular disease, unspecified",4,229
+natu,2361,Stroke,4,230
+natu,2362,Transient ischemia attacks,4,231
+natu,2369,"Cerebrovascular disease, n.e.c.",4,232
+natu,237,"Diseases of arteries, arterioles, capillaries",3,233
+natu,2370,"Diseases of arteries, arterioles, capillaries, unspecified",4,234
+natu,2371,Raynaud's syndrome or phenomenon,4,235
+natu,2372,Aneurysm—nontraumatic,4,236
+natu,2379,"Diseases of arteries, arterioles, capillaries, n.e.c.",4,237
+natu,238,"Diseases of the veins, lymphatics",3,238
+natu,2380,"Diseases of the veins, lymphatics, unspecified",4,239
+natu,2381,Varicose veins,4,240
+natu,2382,Hemorrhoids,4,241
+natu,2383,"Phlebitis, thrombosis",4,242
+natu,2389,"Diseases of the veins, lymphatics, n.e.c.",4,243
+natu,239,"Circulatory system diseases, n.e.c.",3,244
+natu,24,Respiratory system diseases,2,245
+natu,240,"Respiratory system diseases, unspecified",3,246
+natu,241,Acute respiratory infections (including common cold),3,247
+natu,242,Other diseases of upper respiratory tract,3,248
+natu,2420,"Other diseases of upper respiratory tract, unspecified",4,249
+natu,2421,Allergic rhinitis,4,250
+natu,2422,Chronic conditions of upper respiratory tract ,4,251
+natu,2429,"Other diseases of upper respiratory tract, n.e.c.",4,252
+natu,243,"Pneumonia, influenza",3,253
+natu,2430,"Pneumonia, influenza, unspecified",4,254
+natu,2431,Pneumonia,4,255
+natu,2432,Influenza—common,4,256
+natu,2433,Influenza—novel,4,257
+natu,244,Chronic obstructive pulmonary disease and allied conditions,3,258
+natu,2440,"Chronic obstructive pulmonary disease and allied conditions, unspecified",4,259
+natu,2441,Chronic bronchitis ,4,260
+natu,2442,Emphysema,4,261
+natu,2443,"Asthma, except intrinsic",4,262
+natu,2444,Extrinsic allergic alveolitis and hypersensitivity pneumonitis ,4,263
+natu,2449,"Chronic obstructive pulmonary diseases and allied conditions, n.e.c.",4,264
+natu,245,Pneumoconioses,3,265
+natu,2450,"Pneumoconioses, unspecified",4,266
+natu,2451,Coal workers' pneumoconiosis ,4,267
+natu,2452,Asbestosis,4,268
+natu,2453,"Silicosis, talcosis",4,269
+natu,2454,"Byssinosis, mill fever",4,270
+natu,2455,Aluminosis,4,271
+natu,2456,Berylliosis,4,272
+natu,2457,Siderosis,4,273
+natu,2458,Pneumoconiosis with tuberculosis,4,274
+natu,2459,"Pneumoconioses, n.e.c.",4,275
+natu,249,Other respiratory system diseases,3,276
+natu,2490,"Other respiratory system diseases, unspecified",4,277
+natu,2491,"Pneumonitis, n.e.c.",4,278
+natu,2492,Pulmonary edema,4,279
+natu,2493,"Pulmonary fibrosis, n.e.c.",4,280
+natu,2494,"Atelectasis, collapsed lung",4,281
+natu,2499,"Other respiratory system diseases, n.e.c.",4,282
+natu,25,Digestive system diseases and disorders,2,283
+natu,250,"Digestive system diseases and disorders, unspecified",3,284
+natu,251,"Diseases of oral cavity, salivary glands, and jaws",3,285
+natu,252,"Diseases of esophagus, stomach, and duodenum",3,286
+natu,253,Hernia—nontraumatic,3,287
+natu,254,Noninfectious enteritis and colitis (including ileitis),3,288
+natu,255,Other diseases of intestines and peritoneum,3,289
+natu,256,Toxic hepatitis—noninfective,3,290
+natu,259,"Digestive system diseases and disorders, n.e.c.",3,291
+natu,26,Genitourinary system diseases and disorders,2,292
+natu,260,"Genitourinary system diseases and disorders, unspecified",3,293
+natu,261,"Nephritis, nephrotic syndrome, and nephrosis",3,294
+natu,2610,"Nephritis, nephrotic syndrome, and nephrosis, unspecified",4,295
+natu,2611,Nephritis,4,296
+natu,2612,Nephrotic syndrome,4,297
+natu,2613,Nephrosis,4,298
+natu,262,Other diseases of urinary system,3,299
+natu,263,Diseases and disorders of the genital tract,3,300
+natu,2630,"Diseases and disorders of the genital tract, unspecified",4,301
+natu,2631,Infertility,4,302
+natu,2632,"Spontaneous abortion, miscarriage",4,303
+natu,2639,"Diseases and disorders of the genital tract, n.e.c.",4,304
+natu,264,Disorders of breast,3,305
+natu,269,"Genitourinary system diseases and disorders, n.e.c.",3,306
+natu,27,Musculoskeletal system and connective tissue diseases and disorders,2,307
+natu,270,"Musculoskeletal system and connective tissue diseases and disorders, unspecified",3,308
+natu,271,Arthropathies and related disorders (arthritis),3,309
+natu,272,Dorsopathies,3,310
+natu,2720,"Dorsopathies, unspecified",4,311
+natu,2721,Sciatica,4,312
+natu,2722,Lumbago,4,313
+natu,2723,"Disc disorders, except dislocation",4,314
+natu,2729,"Dorsopathies, n.e.c.",4,315
+natu,273,"Soft tissue disorders, except the back",3,316
+natu,2730,"Soft tissue disorder, except the back, unspecified",4,317
+natu,2731,Bursitis,4,318
+natu,2732,Stenosing tenosynovitis,4,319
+natu,2733,"Other tenosynovitis, synovitis",4,320
+natu,2734,Epicondylitis,4,321
+natu,2735,Other or unspecified tendonitis (tendinitis),4,322
+natu,2736,Ganglion or cystic tumor,4,323
+natu,2738,Multiple soft tissue disorders,4,324
+natu,2739,"Soft tissue disorder, except the back, n.e.c.",4,325
+natu,274,"Osteopathies, chondropathies, and acquired deformities",3,326
+natu,2740,"Osteopathies, chondropathies, and acquired deformities, unspecified",4,327
+natu,2741,Curvature of spine,4,328
+natu,2749,"Osteopathies, chondropathies, and acquired deformities, n.e.c.",4,329
+natu,279,"Musculoskeletal system and connective tissue diseases and disorders, n.e.c.",3,330
+natu,28,Disorders of the skin and subcutaneous tissue,2,331
+natu,280,"Disorders of the skin and subcutaneous tissue, unspecified",3,332
+natu,281,Infections of the skin and subcutaneous tissue,3,333
+natu,2810,"Infections of the skin and subcutaneous tissue, unspecified",4,334
+natu,2811,Cellulitis and abscess,4,335
+natu,2812,Impetigo,4,336
+natu,2813,Methicillin-resistant staphylococcus aureus (MRSA) infection,4,337
+natu,2814,Other staphylococcus skin infection,4,338
+natu,2815,Other or unspecified streptococcus skin infection,4,339
+natu,2819,"Infections of the skin and subcutaneous tissue, n.e.c.",4,340
+natu,282,Dermatitis resulting from long-term exposures,3,341
+natu,283,Diseases of sebaceous glands,3,342
+natu,2830,"Diseases of sebaceous glands, unspecified",4,343
+natu,2831,Acne,4,344
+natu,2832,Sebaceous cyst,4,345
+natu,2839,"Diseases of sebaceous glands, n.e.c.",4,346
+natu,289,Other diseases and disorders of the skin and subcutaneous tissue,3,347
+natu,2890,"Other diseases and disorders of the skin and subcutaneous tissue, unspecified",4,348
+natu,2891,Corns and calluses ,4,349
+natu,2892,Ingrown nails and other nail diseases,4,350
+natu,2893,"Prickly heat, heat rash, and other disorders of sweat glands ",4,351
+natu,2894,Chronic skin ulcers,4,352
+natu,2899,"Other diseases and disorders of the skin and subcutaneous tissue, n.e.c.",4,353
+natu,29,Other systemic diseases and disorders,2,354
+natu,290,"Other systemic diseases and disorders, unspecified",3,355
+natu,291,"Endocrine, nutritional, metabolic, and immunity disorders",3,356
+natu,2910,"Endocrine, nutritional, metabolic, and immunity disorders, unspecified",4,357
+natu,2911,Diseases and disorders of thyroid gland,4,358
+natu,2912,Diseases and disorders of other endocrine glands,4,359
+natu,2919,"Endocrine, nutritional, metabolic, and immunity disorders, n.e.c.",4,360
+natu,299,"Other systemic diseases and disorders, n.e.c.",3,361
+natu,3,INFECTIOUS AND PARASITIC DISEASES,1,362
+natu,30,"Infectious and parasitic diseases, unspecified",2,363
+natu,31,Bacterial diseases,2,364
+natu,310,"Bacterial diseases, unspecified",3,365
+natu,311,Tuberculosis,3,366
+natu,312,Zoonotic bacterial diseases,3,367
+natu,3120,"Zoonotic bacterial diseases, unspecified",4,368
+natu,3121,Anthrax,4,369
+natu,3122,Brucellosis,4,370
+natu,3123,"Ornithosis (including parrot fever, psittacosis)",4,371
+natu,3129,"Zoonotic bacterial diseases, n.e.c.",4,372
+natu,313,Syphilis and other venereal diseases,3,373
+natu,314,Other spirochetal diseases,3,374
+natu,3140,"Other spirochetal diseases, unspecified",4,375
+natu,3141,Leptospirosis,4,376
+natu,3149,"Other spirochetal diseases, n.e.c.",4,377
+natu,319,Other bacterial diseases,3,378
+natu,3190,"Other bacterial diseases, unspecified",4,379
+natu,3191,Leprosy,4,380
+natu,3192,"Diphtheria, whooping cough ",4,381
+natu,3193,Streptococcal sore throat and scarlatina,4,382
+natu,3194,"Methicillin-resistant infection, other than skin",4,383
+natu,3195,Meningococcal infection,4,384
+natu,3196,Tetanus,4,385
+natu,3197,Septicemia,4,386
+natu,3199,"Other bacterial diseases, n.e.c",4,387
+natu,32,Viral diseases,2,388
+natu,320,"Viral diseases, unspecified",3,389
+natu,321,Human immunodeficiency virus (HIV) infection,3,390
+natu,3210,"Human immunodeficiency virus (HIV) infection, unspecified",4,391
+natu,3211,Acquired immune deficiency syndrome (AIDS),4,392
+natu,3212,"AIDS-like syndrome, AIDS-related complex (ARC)",4,393
+natu,3219,"Human immunodeficiency virus (HIV) infection, n.e.c.",4,394
+natu,322,Non-arthropod-borne viral diseases of the central nervous system,3,395
+natu,3220,"Non-arthropod-borne viral diseases of the central nervous system, unspecified",4,396
+natu,3221,Meningitis due to enterovirus,4,397
+natu,3229,"Non-arthropod-borne viral diseases of the central nervous system, n.e.c.",4,398
+natu,323,Viral diseases accompanied by exanthem (eruptive fever),3,399
+natu,3230,"Viral diseases accompanied by exanthem (eruptive fever), unspecified",4,400
+natu,3231,Smallpox ,4,401
+natu,3232,Cowpox and paravaccinia,4,402
+natu,3233,"Chickenpox, varicella",4,403
+natu,3234,"Herpes zoster, shingles",4,404
+natu,3235,Herpes simplex,4,405
+natu,3236,Measles,4,406
+natu,3237,"Rubella, German measles",4,407
+natu,3239,"Viral diseases accompanied by exanthem (eruptive fever), n.e.c.",4,408
+natu,324,Arthropod-borne viral diseases,3,409
+natu,3240,"Arthropod-borne viral diseases, unspecified",4,410
+natu,3241,Yellow fever,4,411
+natu,3242,Dengue,4,412
+natu,3243,Viral encephalitis,4,413
+natu,3244,Hemorrhagic fever,4,414
+natu,3245,West Nile virus,4,415
+natu,3249,"Arthropod-borne viral diseases, n.e.c.",4,416
+natu,325,Viral hepatitis,3,417
+natu,3250,"Viral hepatitis, unspecified",4,418
+natu,3251,Type A viral hepatitis (infectious hepatitis),4,419
+natu,3252,Type B viral hepatitis (serum hepatitis),4,420
+natu,3253,Type C viral hepatitis ,4,421
+natu,3254,Type E viral hepatitis,4,422
+natu,3259,"Viral hepatitis, n.e.c.",4,423
+natu,326,Viral diseases of the conjunctiva,3,424
+natu,3260,"Viral diseases of the conjunctiva, unspecified",4,425
+natu,3261,Viral conjunctivitis (ophthalmia),4,426
+natu,3269,"Viral diseases of the conjunctiva, n.e.c.",4,427
+natu,329,Other diseases due to viruses,3,428
+natu,3290,"Other diseases due to viruses, unspecified",4,429
+natu,3291,Rabies,4,430
+natu,3292,Mumps,4,431
+natu,3293,Infectious mononucleosis,4,432
+natu,3294,Foot and mouth disease,4,433
+natu,3299,"Other diseases due to viruses, n.e.c.",4,434
+natu,33,Other arthropod-borne diseases,2,435
+natu,330,"Other arthropod-borne diseases, unspecified",3,436
+natu,331,Rickettsioses diseases,3,437
+natu,3310,"Rickettsioses diseases, unspecified",4,438
+natu,3311,Q fever,4,439
+natu,3312,Spotted fevers and tick typhus,4,440
+natu,3319,"Rickettsioses diseases, n.e.c.",4,441
+natu,332,Malaria,3,442
+natu,333,Lyme disease,3,443
+natu,339,"Other arthropod-borne diseases, n.e.c.",3,444
+natu,34,Mycoses (fungal infections),2,445
+natu,340,"Mycoses, unspecified",3,446
+natu,341,"Dermatophytosis (including athlete's foot, tinea)",3,447
+natu,342,Coccidioidomycosis,3,448
+natu,349,"Mycoses, n.e.c.",3,449
+natu,35,Helminthiases (worm infections),2,450
+natu,36,Infectious diseases peculiar to the intestines,2,451
+natu,360,"Infectious diseases peculiar to the intestines, unspecified",3,452
+natu,361,Cholera,3,453
+natu,362,Typhoid and paratyphoid fevers,3,454
+natu,363,Other salmonella infections,3,455
+natu,364,Other bacterial food poisoning (including botulism and staphylococcal food poisoning),3,456
+natu,365,Colitis,3,457
+natu,366,Dysentery,3,458
+natu,369,"Infectious diseases peculiar to the intestines, n.e.c.",3,459
+natu,39,Other infectious and parasitic diseases,2,460
+natu,390,"Other infectious and parasitic diseases, unspecified",3,461
+natu,391,Pediculosis and phthirus infestation (lice),3,462
+natu,392,Scabies and other acariases,3,463
+natu,393,"Other infestations (including maggots, leeches, jigger disease)",3,464
+natu,399,"Other infectious and parasitic diseases, n.e.c.",3,465
+natu,4,"NEOPLASMS, TUMORS, AND CANCERS",1,466
+natu,41,"Malignant neoplasms and tumors (cancers, carcinomas, sarcomas)",2,467
+natu,410,"Malignant neoplasms and tumors (cancers, carcinomas, sarcomas)",3,468
+natu,411,Malignant neoplasms and tumors of bone and articular cartilage,3,469
+natu,412,Malignant neoplasms and tumors of the skin,3,470
+natu,4120,"Malignant neoplasms and tumors of the skin, unspecified",4,471
+natu,4121,Melanoma of the skin (melanocarcinoma),4,472
+natu,4122,Non-melanoma skin cancer (squamous and basal cell),4,473
+natu,4128,Multiple malignant neoplasms and tumors of the skin,4,474
+natu,413,Malignant neoplasms and tumors of lymphatic and hematopoietic tissue,3,475
+natu,4130,"Malignant neoplasms and tumors of lymphatic and hematopoietic tissue, unspecified",4,476
+natu,4131,Lymphosarcoma and reticulosarcoma (lymphoma),4,477
+natu,4132,Hodgkin's disease,4,478
+natu,4133,Multiple myeloma,4,479
+natu,4134,Leukemias,4,480
+natu,4138,Multiple malignant neoplasms and tumors of lymphatic and hematopoietic tissue,4,481
+natu,4139,"Malignant neoplasms and tumors of lymphatic and hematopoietic tissue, n.e.c.",4,482
+natu,414,"Malignant neoplasms of digestive organs (esophagus, stomach, liver, intestines)",3,483
+natu,415,"Malignant neoplasms of respiratory and intrathoracic (larynx, lung, sinuses, trachea)",3,484
+natu,416,Malignant neoplasms of mesothelial and soft tissue,3,485
+natu,4161,Mesothelioma,4,486
+natu,4169,Malignant neoplasms of other connective and soft tissue,4,487
+natu,419,Malignant neoplasms and tumors of other sites,3,488
+natu,42,Benign neoplasms and tumors,2,489
+natu,420,"Benign neoplasms and tumors, unspecified",3,490
+natu,421,"Benign neoplasms of bone, connective tissue, and skin",3,491
+natu,4210,"Benign neoplasms of bone, connective tissue, and skin, unspecified",4,492
+natu,4211,Benign neoplasms of bone and articular cartilage,4,493
+natu,4212,Lipoma (fatty tumor),4,494
+natu,4213,Benign neoplasms of the skin,4,495
+natu,4218,"Multiple benign neoplasms of bone, connective tissue, and skin",4,496
+natu,4219,"Benign neoplasms of bone, connective tissue, and skin, n.e.c.",4,497
+natu,429,Benign neoplasms and tumors of other sites,3,498
+natu,4290,"Benign neoplasms and tumors of other sites, unspecified",4,499
+natu,4291,Hemangioma and lymphangioma—any site,4,500
+natu,4298,Multiple benign neoplasms and tumors of other sites,4,501
+natu,4299,"Benign neoplasms and tumors of other sites, n.e.c.",4,502
+natu,43,Neoplasms and tumors of unknown properties,2,503
+natu,430,"Neoplasms and tumors of unknown properties, unspecified",3,504
+natu,431,"Bone, articular cartilage neoplasms and tumors of unknown properties",3,505
+natu,432,Connective and other soft tissue neoplasms and tumors of unknown properties,3,506
+natu,433,Skin neoplasms and tumors of unknown properties,3,507
+natu,438,Multiple neoplasms and tumors of unknown properties,3,508
+natu,439,"Neoplasms and tumors of other sites of unknown properties, n.e.c.",3,509
+natu,5,"SYMPTOMS, SIGNS, AND ILL-DEFINED CONDITIONS",1,510
+natu,50,"Symptoms, signs, and ill-defined conditions, unspecified",2,511
+natu,51,Symptoms,2,512
+natu,510,"Symptoms, unspecified",3,513
+natu,511,General symptoms,3,514
+natu,5110,"General symptoms, unspecified",4,515
+natu,5111,Loss of consciousness—not heat related,4,516
+natu,5112,"Convulsions, seizures",4,517
+natu,5113,Malaise and fatigue,4,518
+natu,5114,Dizziness—general,4,519
+natu,5115,"Inflammation, swelling—general",4,520
+natu,5116,Numbness—general,4,521
+natu,5118,Multiple general symptoms,4,522
+natu,5119,"General symptoms, n.e.c.",4,523
+natu,512,Symptoms involving nervous and musculoskeletal systems,3,524
+natu,5120,"Symptoms involving nervous and musculoskeletal systems, unspecified",4,525
+natu,5121,"Spasms or tremors, n.e.c.",4,526
+natu,5122,Earache,4,527
+natu,5123,Eye strain,4,528
+natu,5128,Multiple symptoms involving nervous and musculoskeletal systems,4,529
+natu,5129,"Symptoms involving nervous and musculoskeletal systems, n.e.c.",4,530
+natu,513,Symptoms involving skin and other integumentary tissue,3,531
+natu,5130,"Symptoms involving skin and other integumentary tissue, unspecified",4,532
+natu,5131,Edema (including dropsy),4,533
+natu,5132,Cyanosis,4,534
+natu,5133,Pallor and flushing,4,535
+natu,5138,Multiple symptoms involving skin and other integumentary tissue,4,536
+natu,5139,"Symptoms involving skin and other integumentary tissue, n.e.c.",4,537
+natu,514,Symptoms involving head and neck,3,538
+natu,5140,"Symptoms involving head and neck, unspecified",4,539
+natu,5141,"Headache, except migraine",4,540
+natu,5142,"Loss of voice, voice disturbances",4,541
+natu,5148,Multiple symptoms involving head and neck,4,542
+natu,5149,"Symptoms involving head and neck, n.e.c.",4,543
+natu,515,Symptoms involving cardiovascular system,3,544
+natu,5150,"Symptoms involving cardiovascular system, unspecified",4,545
+natu,5151,Unspecified tachycardia (rapid heartbeat),4,546
+natu,5152,Gangrene,4,547
+natu,5153,Enlargement of lymph nodes,4,548
+natu,5158,Multiple symptoms involving cardiovascular system,4,549
+natu,5159,"Symptoms involving cardiovascular system, n.e.c.",4,550
+natu,516,Symptoms involving respiratory system and chest,3,551
+natu,5160,"Symptoms involving respiratory system and chest, unspecified",4,552
+natu,5161,Hyperventilation,4,553
+natu,5162,Hemoptysis (cough with hemorrhage),4,554
+natu,5163,Abnormal sputum,4,555
+natu,5164,Chest pain,4,556
+natu,5168,Multiple symptoms involving respiratory system and chest,4,557
+natu,5169,"Symptoms involving respiratory system and chest, n.e.c.",4,558
+natu,517,Symptoms involving digestive and urinary system,3,559
+natu,5170,"Symptoms involving digestive and urinary system, unspecified",4,560
+natu,5171,Nausea and vomiting—general,4,561
+natu,5172,Heartburn,4,562
+natu,5173,Frequency of urination and polyuria,4,563
+natu,5174,"Abdominal pain, unspecified",4,564
+natu,5178,Multiple symptoms involving digestive or urinary system,4,565
+natu,5179,"Symptoms involving digestive and urinary system, n.e.c.",4,566
+natu,518,Multiple symptoms,3,567
+natu,519,"Other symptoms, n.e.c.",3,568
+natu,52,Abnormal findings,2,569
+natu,520,"Abnormal findings, unspecified",3,570
+natu,521,Abnormal findings from examination of blood,3,571
+natu,522,Abnormal findings from examination of urine,3,572
+natu,523,Abnormal findings from other body substances,3,573
+natu,524,Abnormal findings from radiological and other examination of body structure,3,574
+natu,525,Abnormal findings from function studies,3,575
+natu,526,Abnormal findings from histological and immunological studies,3,576
+natu,5260,"Abnormal findings from histological and immunological studies, unspecified",4,577
+natu,5261,"Positive reaction to tuberculin skin test, without a diagnosis of TB",4,578
+natu,5269,"Abnormal findings from histological and immunological studies, n.e.c.",4,579
+natu,528,Multiple abnormal findings,3,580
+natu,529,Other abnormal findings,3,581
+natu,58,"Multiple symptoms, signs, and ill-defined conditions",2,582
+natu,59,"Symptoms, signs, and ill-defined conditions, n.e.c.",2,583
+natu,6,"OTHER DISEASES, CONDITIONS, AND DISORDERS",1,584
+natu,60,"Other diseases, conditions, and disorders, unspecified",2,585
+natu,61,Damage to prosthetic and orthopedic devices,2,586
+natu,610,"Damage to prosthetic and orthopedic devices, unspecified",3,587
+natu,611,Damage to prosthetic devices and aids,3,588
+natu,6110,"Damage to prosthetic devices, unspecified",4,589
+natu,6111,Damage to artificial limb(s),4,590
+natu,6112,Damage to artificial eye(s),4,591
+natu,6113,Damage to other devices ,4,592
+natu,6118,Damage to multiple prosthetic devices,4,593
+natu,6119,"Damage to prosthetic devices, n.e.c.",4,594
+natu,612,Damage to orthopedic devices,3,595
+natu,6120,"Damage to orthopedic devices, unspecified",4,596
+natu,6121,Damage to replaced joints,4,597
+natu,6122,"Damage to pins, rods, plates, and screws",4,598
+natu,6128,Damage to multiple orthopedic devices,4,599
+natu,6129,"Damage to orthopedic devices, n.e.c.",4,600
+natu,619,"Damage to medical implants, n.e.c.",3,601
+natu,62,Mental disorders and syndromes,2,602
+natu,620,"Mental disorders and syndromes, unspecified",3,603
+natu,621,"Anxiety, stress",3,604
+natu,6210,"Anxiety, stress, unspecified",4,605
+natu,6211,Post-traumatic stress disorder,4,606
+natu,6212,Adjustment disorder,4,607
+natu,6213,Anxiety or panic disorder,4,608
+natu,6219,"Anxiety, stress, n.e.c.",4,609
+natu,622,Depression or depressive episode,3,610
+natu,629,"Mental disorders and syndromes, n.e.c.",3,611
+natu,69,"Other diseases, conditions, and disorders, n.e.c.",2,612
+natu,7,EXPOSURES TO DISEASE—NO ILLNESS INCURRED ,1,613
+natu,8,"MULTIPLE DISEASES, CONDITIONS, AND DISORDERS",1,614
+natu,9999,Nonclassifiable,4,615

@@ -1,0 +1,219 @@
+﻿CASE_CODE_TYPE,CASE_CODE,CASE_CODE_TITLE,Hierarchy_level,Sort_sequence
+part,1,HEAD,1,1
+part,10,"Head, unspecified",2,2
+part,11,"Cranial region, including skull",2,3
+part,110,"Cranial region, unspecified",3,4
+part,111,Brain,3,5
+part,112,Scalp,3,6
+part,113,Skull,3,7
+part,118,Multiple cranial region locations,3,8
+part,119,"Cranial region, n.e.c.",3,9
+part,12,Ear(s),2,10
+part,13,Face,2,11
+part,130,"Face, unspecified",3,12
+part,131,Forehead,3,13
+part,132,Eye(s),3,14
+part,133,"Nose, nasal cavity",3,15
+part,1330,"Nose, except internal location of diseases or disorders",4,16
+part,1331,"Internal nasal location, unspecified",4,17
+part,1332,Nasopharynx,4,18
+part,1333,Nasal passage(s),4,19
+part,1334,Sinus(es),4,20
+part,1338,Multiple internal nasal locations,4,21
+part,1339,"Internal nasal location, n.e.c.",4,22
+part,134,Cheek(s),3,23
+part,135,"Jaw, chin",3,24
+part,136,Mouth,3,25
+part,1360,"Mouth, unspecified",4,26
+part,1361,Lip(s),4,27
+part,1362,Tongue,4,28
+part,1363,Tooth (teeth),4,29
+part,1364,Gum,4,30
+part,1368,Multiple mouth locations,4,31
+part,1369,"Mouth, n.e.c.",4,32
+part,138,Multiple face locations,3,33
+part,139,"Face, n.e.c.",3,34
+part,18,Multiple head locations,2,35
+part,19,"Head, n.e.c.",2,36
+part,2,"NECK, INCLUDING THROAT",1,37
+part,20,"Neck, except internal location of diseases or disorders",2,38
+part,21,"Internal neck location, unspecified",2,39
+part,22,Vocal cord(s),2,40
+part,23,Larynx,2,41
+part,24,Laryngopharynx,2,42
+part,25,Pharynx,2,43
+part,26,Trachea,2,44
+part,28,Multiple internal neck locations,2,45
+part,29,"Internal neck location, n.e.c.",2,46
+part,3,TRUNK,1,47
+part,30,"Trunk, unspecified",2,48
+part,31,"Chest, including ribs, internal organs",2,49
+part,310,"Chest, except internal location of diseases or disorders",3,50
+part,311,"Internal chest location, unspecified",3,51
+part,312,Esophagus,3,52
+part,313,Heart,3,53
+part,314,Bronchus,3,54
+part,315,"Lung(s), pleura",3,55
+part,316,Breast(s)—internal,3,56
+part,318,Multiple internal chest locations,3,57
+part,319,"Internal chest location, n.e.c.",3,58
+part,32,"Back, including spine, spinal cord",2,59
+part,320,"Back, including spine, spinal cord, unspecified",3,60
+part,321,Thoracic region,3,61
+part,322,Lumbar region,3,62
+part,323,Sacral region,3,63
+part,324,Coccygeal region,3,64
+part,328,Multiple back regions,3,65
+part,329,"Back, including spine, spinal cord, n.e.c.",3,66
+part,33,Abdomen,2,67
+part,330,"Abdomen, except internal location of diseases or disorders",3,68
+part,331,"Internal abdominal location, unspecified",3,69
+part,332,Stomach organ,3,70
+part,333,Spleen,3,71
+part,334,Urinary organs,3,72
+part,3340,"Urinary organs, unspecified",4,73
+part,3341,Bladder,4,74
+part,3342,Kidney(s),4,75
+part,3348,Multiple urinary organs,4,76
+part,3349,"Urinary organs, n.e.c.",4,77
+part,335,"Intestines, peritoneum",3,78
+part,3350,"Intestines, peritoneum, unspecified",4,79
+part,3351,Peritoneum,4,80
+part,3352,Small intestine,4,81
+part,3353,"Large intestine, colon, rectum",4,82
+part,3358,Multiple intestinal locations,4,83
+part,3359,"Intestines, peritoneum, n.e.c.",4,84
+part,336,Other digestive structures,3,85
+part,3360,"Other digestive structures, unspecified",4,86
+part,3361,Liver,4,87
+part,3362,Gallbladder,4,88
+part,3363,Pancreas,4,89
+part,3368,Multiple other digestive structures,4,90
+part,3369,"Other digestive structures, n.e.c.",4,91
+part,338,Multiple internal abdominal locations,3,92
+part,339,"Internal abdominal location, n.e.c.",3,93
+part,34,Pelvic region,2,94
+part,340,"Pelvic region, unspecified",3,95
+part,341,Hip(s),3,96
+part,342,Pelvis,3,97
+part,343,Buttock(s),3,98
+part,344,Groin,3,99
+part,345,External reproductive tract structures,3,100
+part,3450,"External reproductive tract structures, unspecified",4,101
+part,3451,Scrotum,4,102
+part,3452,Penis,4,103
+part,3453,External female genital region,4,104
+part,3458,Multiple external reproductive tract structures,4,105
+part,3459,"External reproductive tract structures, n.e.c.",4,106
+part,346,Internal reproductive tract structures,3,107
+part,3460,"Internal reproductive tract structures, unspecified",4,108
+part,3461,Prostate,4,109
+part,3462,Testis (testes),4,110
+part,3463,Ovary (ovaries),4,111
+part,3464,Uterus,4,112
+part,3465,"Female genitals, n.e.c.",4,113
+part,3468,Multiple internal reproductive tract structures,4,114
+part,3469,"Internal reproductive tract structures, n.e.c.",4,115
+part,348,Multiple pelvic region locations,3,116
+part,349,"Pelvic region, n.e.c.",3,117
+part,38,Multiple trunk locations,2,118
+part,39,"Trunk, n.e.c.",2,119
+part,4,UPPER EXTREMITIES,1,120
+part,40,"Upper extremities, unspecified",2,121
+part,41,"Shoulder(s), including clavicle(s), scapula(e)",2,122
+part,42,Arm(s),2,123
+part,420,"Arm(s), unspecified",3,124
+part,421,Upper arm(s),3,125
+part,422,Elbow(s),3,126
+part,423,Forearm(s),3,127
+part,428,Multiple arm locations,3,128
+part,4280,"Multiple arm locations, unspecified",4,129
+part,4281,Elbow(s) and arms(s),4,130
+part,4289,"Multiple arm locations, n.e.c.",4,131
+part,429,"Arm(s), n.e.c.",3,132
+part,43,Wrist(s),2,133
+part,44,Hand(s),2,134
+part,440,"Hand(s), unspecified",3,135
+part,441,"Hand(s), except finger(s)",3,136
+part,442,"Finger(s), fingernail(s)",3,137
+part,4420,"Finger(s), fingernail(s), unspecified",4,138
+part,4421,"Fingernail(s), nailbed(s)  ",4,139
+part,4422,Fingertip(s),4,140
+part,4429,"Finger(s), fingernail(s), n.e.c.",4,141
+part,448,Hand(s) and finger(s),3,142
+part,449,"Hand(s), n.e.c.",3,143
+part,48,Multiple upper extremities locations,2,144
+part,480,"Multiple upper extremities locations, unspecified",3,145
+part,481,Hand(s) and arms(s),3,146
+part,4810,"Hand(s) and arm(s), unspecified",4,147
+part,4811,Hand(s) and elbow(s),4,148
+part,4819,"Hand(s) and arm(s), n.e.c.",4,149
+part,482,Hand(s) and wrist(s),3,150
+part,483,Wrist(s) and arm(s),3,151
+part,4830,"Wrist(s) and arm(s), unspecified",4,152
+part,4831,Wrist(s) and elbow(s),4,153
+part,4839,"Wrist(s) and arm(s), n.e.c.",4,154
+part,484,Shoulder(s) and arm(s),3,155
+part,489,"Multiple upper extremities locations, n.e.c.",3,156
+part,49,"Upper extremities, n.e.c.",2,157
+part,5,LOWER EXTREMITIES,1,158
+part,50,"Lower extremities, unspecified",2,159
+part,51,Leg(s),2,160
+part,510,"Leg(s), unspecified",3,161
+part,511,Thigh(s),3,162
+part,512,Knee(s),3,163
+part,513,Lower leg(s),3,164
+part,518,Multiple leg locations,3,165
+part,5180,"Multiple leg locations, unspecified",4,166
+part,5181,Knee(s) and leg(s),4,167
+part,5189,"Multiple leg locations, n.e.c. ",4,168
+part,519,"Leg(s), n.e.c.",3,169
+part,52,Ankle(s),2,170
+part,53,Foot (feet),2,171
+part,530,"Foot (feet), unspecified",3,172
+part,531,Sole(s),3,173
+part,5310,"Sole(s), unspecified",4,174
+part,5311,Ball(s) of the foot,4,175
+part,5312,"Arch(es), instep(s)",4,176
+part,5313,Heel(s),4,177
+part,5318,Multiple sole locations,4,178
+part,5319,"Sole(s), n.e.c.",4,179
+part,532,"Toes(s), toenail(s)",3,180
+part,538,Multiple foot (feet) locations,3,181
+part,539,"Foot (feet), n.e.c.",3,182
+part,58,Multiple lower extremities locations,2,183
+part,580,"Multiple lower extremities locations, unspecified",3,184
+part,581,Foot (feet) and leg(s),3,185
+part,5810,"Foot(feet) and leg(s), unspecified",4,186
+part,5811,Foot(feet) and knee(s),4,187
+part,5819,"Foot(feet) and leg(s), n.e.c.",4,188
+part,582,Foot (feet) and ankle(s),3,189
+part,583,Ankle(s) and leg(s),3,190
+part,5830,"Ankle(s) and leg(s), unspecified",4,191
+part,5831,Ankle(s) and knee(s),4,192
+part,5839,"Ankle(s) and leg(s), n.e.c.",4,193
+part,589,"Multiple lower extremities locations, n.e.c.",3,194
+part,59,"Lower extremities, n.e.c.",2,195
+part,6,BODY SYSTEMS,1,196
+part,8,MULTIPLE BODY PARTS,1,197
+part,80,"Multiple body parts, unspecified",2,198
+part,81,Head and neck,2,199
+part,82,"Head, neck, and trunk",2,200
+part,83,Head and trunk,2,201
+part,84,Neck and back,2,202
+part,85,Shoulder(s) and back,2,203
+part,86,Hip(s) and leg(s) ,2,204
+part,87,Upper and lower limb(s),2,205
+part,89,Other multiple body parts,2,206
+part,891,Whole body,3,207
+part,899,"Multiple body parts, n.e.c.",3,208
+part,9,OTHER BODY PARTS,1,209
+part,91,Prosthetic and orthopedic devices,2,210
+part,910,"Prosthetic and orthopedic devices, unspecified",3,211
+part,911,Prosthetic and orthopedic devices of the head,3,212
+part,912,Prosthetic and orthopedic devices of the trunk,3,213
+part,913,Prosthetic and orthopedic devices of the upper extremities,3,214
+part,914,Prosthetic and orthopedic devices of the lower extremities,3,215
+part,918,Prosthetic and orthopedic devices involving multiple body parts,3,216
+part,919,"Prosthetic and orthopedic devices, n.e.c.",3,217
+part,9999,Nonclassifiable,4,218

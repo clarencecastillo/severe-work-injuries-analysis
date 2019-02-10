@@ -1,0 +1,538 @@
+﻿CASE_CODE_TYPE,CASE_CODE,CASE_CODE_TITLE,Hierarchy_level,Sort_sequence
+even,1,VIOLENCE AND OTHER INJURIES BY PERSONS OR ANIMALS,1,1
+even,2,TRANSPORTATION INCIDENTS,1,64
+even,3,FIRES AND EXPLOSIONS,1,214
+even,4,"FALLS, SLIPS, TRIPS",1,233
+even,5,EXPOSURE TO HARMFUL SUBSTANCES OR ENVIRONMENTS,1,315
+even,6,CONTACT WITH OBJECTS AND EQUIPMENT,1,375
+even,7,OVEREXERTION AND BODILY REACTION,1,464
+even,10,"Violence and other injuries by persons or animals, unspecified",2,2
+even,11,Intentional injury by person,2,3
+even,12,Injury by person—unintentional or intent unknown,2,25
+even,13,Animal and insect related incidents ,2,44
+even,20,"Transportation incident, unspecified",2,65
+even,21,Aircraft incidents,2,66
+even,22,Rail vehicle incidents,2,87
+even,23,Animal and other non-motorized vehicle transportation incidents,2,101
+even,24,Pedestrian vehicular incidents,2,119
+even,25,Water vehicle incidents,2,146
+even,26,Roadway incidents involving motorized land vehicle,2,161
+even,27,Nonroadway incidents involving motorized land vehicles ,2,189
+even,29,"Transportation incident, n.e.c.",2,213
+even,30,"Fire or explosion, unspecified ",2,215
+even,31,Fires,2,216
+even,32,Explosions,2,226
+even,40,"Fall, slip, trip, unspecified ",2,234
+even,41,Slip or trip without fall,2,235
+even,42,Falls on same level ,2,251
+even,43,Falls to lower level,2,264
+even,44,Jumps to lower level,2,293
+even,45,Fall or jump curtailed by personal fall arrest system ,2,313
+even,49,"Fall, slip, trip, n.e.c.",2,314
+even,50,"Exposure to harmful substances or environments, unspecified",2,316
+even,51,Exposure to electricity,2,317
+even,52,Exposure to radiation and noise,2,327
+even,53,Exposure to temperature extremes,2,339
+even,54,Exposure to air and water pressure change,2,345
+even,55,Exposure to other harmful substances,2,349
+even,56,"Exposure to oxygen deficiency, n.e.c.",2,367
+even,57,"Exposure to traumatic or stressful event, n.e.c. ",2,373
+even,59,"Exposure to harmful substances or environments, n.e.c.",2,374
+even,60,"Contact with objects and equipment, unspecified",2,376
+even,61,Needlestick without exposure to harmful substance,2,377
+even,62,Struck by object or equipment,2,378
+even,63,Struck against object or equipment,2,418
+even,64,Caught in or compressed by equipment or objects,2,431
+even,65,"Struck, caught, or crushed in collapsing structure, equipment, or material",2,442
+even,66,Rubbed or abraded by friction or pressure,2,451
+even,67,"Rubbed, abraded, or jarred by vibration",2,458
+even,69,"Contact with objects and equipment, n.e.c.",2,463
+even,70,"Overexertion and bodily reaction, unspecified",2,465
+even,71,Overexertion involving outside sources,2,466
+even,72,Repetitive motions involving microtasks,2,490
+even,73,Other exertions or bodily reactions,2,498
+even,74,"Bodily conditions, n.e.c.",2,534
+even,78,Multiple types of overexertions and bodily reactions,2,535
+even,79,"Overexertion and bodily reaction and exertion, n.e.c.",2,536
+even,110,"Intentional injury by person, unspecified",3,4
+even,111,Intentional injury by other person,3,5
+even,112,Self-inflicted injury—intentional ,3,16
+even,120,"Injury by person—unintentional or intent unknown, unspecified",3,26
+even,121,Injury by other person—unintentional or intent unknown,3,27
+even,122,Self-inflicted injury—unintentional or intent unknown,3,36
+even,129,"Injury by person—unintentional or intent unknown, n.e.c.",3,43
+even,130,"Animal and insect related incidents, unspecified",3,45
+even,131,Bites and stings,3,46
+even,132,Struck by animal ,3,52
+even,138,Multiple types of animal and insect incidents,3,59
+even,139,"Animal and insect related incidents, n.e.c.",3,63
+even,210,"Aircraft incident, unspecified",3,67
+even,211,Pedestrian struck by aircraft or propeller,3,68
+even,212,Aircraft crash during takeoff or landing ,3,69
+even,213,Explosion or fire on aircraft,3,76
+even,214,Aircraft crash due to low-altitude entanglement ,3,77
+even,215,Other in-flight crash,3,78
+even,216,Parachuting incident,3,84
+even,217,Fall on aircraft during transport,3,85
+even,219,"Aircraft incident, n.e.c.",3,86
+even,220,"Rail vehicle incident, unspecified",3,88
+even,221,Collision between rail vehicle and another vehicle ,3,89
+even,222,Derailment,3,94
+even,223,Explosion or fire on rail vehicle—transportation incident,3,95
+even,224,Fall or jump from and struck by rail vehicle—transportation incident ,3,96
+even,225,Fall or jump from rail vehicle—transportation incident ,3,97
+even,226,Fall on rail vehicle—transportation incident,3,98
+even,227,Pedestrian struck by rail vehicle—transportation incident,3,99
+even,229,"Rail vehicle incident, n.e.c.",3,100
+even,230,"Animal and other non-motorized vehicle transportation incident, unspecified",3,102
+even,231,Animal transportation incident,3,103
+even,232,Pedal cycle incident,3,111
+even,239,"Animal and other non-motorized vehicle transportation incident,  n.e.c. ",3,118
+even,240,"Pedestrian vehicular incident, unspecified",3,120
+even,241,Pedestrian struck by vehicle in work zone,3,121
+even,242,Pedestrian struck by vehicle in roadway,3,127
+even,243,Pedestrian struck by vehicle on side of road,3,133
+even,244,Pedestrian struck by vehicle in nonroadway area ,3,139
+even,249,"Pedestrian vehicular incident, n.e.c.",3,145
+even,250,"Water vehicle incident, unspecified",3,147
+even,251,Water vehicle or propeller struck person,3,148
+even,252,Water vehicle collisions,3,149
+even,253,Explosion or fire on water vehicle,3,154
+even,254,Capsized or sinking water vehicle,3,155
+even,255,Fall or jump and struck by water vehicle,3,156
+even,256,Fall or jump from water vehicle,3,157
+even,257,Machinery or equipment incident on water vehicle,3,158
+even,258,Fall on water vehicle,3,159
+even,259,"Water vehicle incident, n.e.c.",3,160
+even,260,"Roadway incident involving motorized land vehicle, unspecified",3,162
+even,261,Roadway collision with other vehicle,3,163
+even,262,Roadway collision with object other than vehicle,3,171
+even,263,Roadway noncollision incident,3,177
+even,269,"Roadway incident involving motorized land vehicle, n.e.c.",3,188
+even,270,"Nonroadway incident involving motorized land vehicle, unspecified",3,190
+even,271,Nonroadway collision with other vehicle,3,191
+even,272,Nonroadway collisions with object other than vehicle,3,197
+even,273,Nonroadway noncollision incident,3,201
+even,279,"Nonroadway incident involving motorized land vehicle, n.e.c.",3,212
+even,310,"Fire, unspecified",3,217
+even,311,"Collapsing building, structure, or structural element during fire",3,218
+even,312,Other structural fire without collapse  ,3,219
+even,313,Vehicle or machinery fire,3,220
+even,314,Ignition of clothing from controlled heat source,3,221
+even,315,Small-scale (limited) fire ,3,222
+even,316,Forest or brush fire,3,223
+even,317,"Ignition of vapors, gases, or liquids",3,224
+even,319,"Nonstructural fire, n.e.c.",3,225
+even,320,"Explosion, unspecified",3,227
+even,321,Dust explosion,3,228
+even,322,"Explosion of nonpressurized vapors, gases, or liquids",3,229
+even,323,"Explosion of pressure vessel, piping, or tire",3,230
+even,324,Demolition or blasting explosion ,3,231
+even,329,"Explosion, n.e.c.",3,232
+even,410,"Slip or trip without fall, unspecified",3,236
+even,411,Slip without fall,3,237
+even,412,Trip without fall,3,242
+even,419,"Slip or trip without fall, n.e.c.",3,250
+even,420,"Fall on same level, unspecified",3,252
+even,421,Fall on same level due to tripping,3,253
+even,422,Fall on same level due to slipping ,3,260
+even,423,Fall while sitting,3,261
+even,424,"Fall onto or against object on same level, n.e.c.",3,262
+even,429,"Fall on same level, n.e.c. ",3,263
+even,430,"Fall to lower level, unspecified",3,265
+even,431,Fall from collapsing structure or equipment,3,266
+even,432,Fall through surface or existing opening,3,275
+even,433,Other fall to lower level,3,284
+even,440,"Jump to lower level, unspecified",3,294
+even,441,Jump from collapsing structure or equipment,3,295
+even,442,Other jump to lower level,3,304
+even,510,"Exposure to electricity, unspecified",3,318
+even,511,Direct exposure to electricity,3,319
+even,512,Indirect exposure to electricity,3,323
+even,520,"Exposure to radiation and noise, unspecified",3,328
+even,521,Exposure to light and other radiation,3,329
+even,522,Exposure to noise,3,333
+even,530,"Exposure to temperature extremes, unspecified",3,340
+even,531,Exposure to environmental heat,3,341
+even,532,Exposure to environmental cold,3,342
+even,533,Contact with hot objects or substances,3,343
+even,534,Contact with cold objects or substances,3,344
+even,540,"Exposure to air and water pressure change, unspecified",3,346
+even,541,Exposure to change in water pressure,3,347
+even,542,Exposure to change in air pressure ,3,348
+even,550,"Exposure to other harmful substances, unspecified",3,350
+even,551,Nonmedical use of drugs or alcohol—unintentional overdose ,3,351
+even,552,Inhalation of harmful substance ,3,352
+even,553,Ingestion of harmful substance,3,356
+even,554,"Exposure to harmful substance through skin, eyes, or other exposed tissue",3,357
+even,558,Exposure to other harmful substance—multiple routes of exposure,3,365
+even,559,"Exposure to other harmful substances, n.e.c.",3,366
+even,560,"Exposure to oxygen deficiency, unspecified",3,368
+even,561,"Drowning, submersion, n.e.c.",3,369
+even,562,Choking on object or substance,3,370
+even,563,Depletion of oxygen,3,371
+even,569,"Other oxygen deficiency, n.e.c.",3,372
+even,620,"Struck by object or equipment, unspecified",3,379
+even,621,Struck by powered vehicle—nontransport,3,380
+even,622,Struck by rolling object or equipment—other than powered vehicle ,3,389
+even,623,Struck by falling object or equipment—other than powered vehicle ,3,395
+even,624,Struck by discharged or flying object,3,401
+even,625,Injured by handheld object or equipment,3,407
+even,626,"Struck by swinging or slipping object, other than handheld",3,413
+even,629,"Struck by object or equipment, n.e.c.",3,417
+even,630,"Struck against object or equipment, unspecified",3,419
+even,631,Struck against moving object or equipment,3,420
+even,632,Struck against stationary object or equipment,3,425
+even,639,"Struck against object or equipment, n.e.c.",3,430
+even,640,"Caught in or compressed by equipment or objects, unspecified",3,432
+even,641,Caught in running equipment or machinery,3,433
+even,642,Compressed or pinched by shifting objects or equipment,3,438
+even,643,Compressed or pinched between two stationary objects,3,439
+even,644,Entangled in other object or equipment,3,440
+even,649,"Caught in or compressed by equipment or objects, n.e.c.",3,441
+even,650,"Struck, caught, or crushed in collapsing structure, equipment, or material, unspecified",3,443
+even,651,Excavation or trenching cave-in,3,444
+even,652,Mine collapse or cave-in,3,445
+even,653,Other cave-in,3,446
+even,654,Landslide,3,447
+even,655,"Struck, caught, or crushed in other collapsing structure or equipment",3,448
+even,656,Engulfment in other collapsing material,3,449
+even,659,"Struck, caught, or crushed in collapsing structure, equipment, or material, n.e.c.",3,450
+even,660,"Rubbed or abraded by friction or pressure, unspecified",3,452
+even,661,Rubbed or abraded by kneeling on surface,3,453
+even,662,Rubbed or abraded by objects being handled ,3,454
+even,663,Rubbed or abraded by foreign matter in eye,3,455
+even,664,"Rubbed or abraded by shoes, apparel, or accessories",3,456
+even,669,"Rubbed or abraded by friction or pressure, n.e.c.",3,457
+even,670,"Rubbed, abraded, or jarred by vibration, unspecified",3,459
+even,671,"Rubbed, abraded, or jarred by vehicle or mobile equipment vibration",3,460
+even,672,"Rubbed, abraded, or jarred by other machine or equipment vibration",3,461
+even,679,"Rubbed, abraded, or jarred by vibration, n.e.c.",3,462
+even,710,"Overexertion involving outside sources, unspecified",3,467
+even,711,"Overexertion in lifting, lowering",3,468
+even,712,"Overexertion in pushing, pulling, or turning",3,474
+even,713,"Overexertion in holding, carrying, or wielding",3,478
+even,714,"Overexertion in throwing, catching",3,482
+even,718,Multiple types of overexertion involving outside sources,3,488
+even,719,"Overexertion involving outside sources, n.e.c.",3,489
+even,720,"Repetitive motions involving microtasks, unspecified",3,491
+even,721,"Typing, key entry, texting, or mousing",3,492
+even,722,"Repetitive use of tools, instruments",3,493
+even,723,"Repetitive grasping, placing, or moving objects, except tools",3,494
+even,724,"Repetitive use of hands, not involving tools ",3,495
+even,728,Multiple types of repetitive motions,3,496
+even,729,"Repetitive motions involving microtasks, n.e.c.",3,497
+even,730,"Other exertions or bodily reactions, unspecified",3,499
+even,731,"Bending, crawling, reaching, twisting, climbing, stepping",3,500
+even,732,"Kneeling, kneeling down",3,506
+even,733,"Sitting, sitting down",3,510
+even,734,"Standing, standing up",3,514
+even,735,"Walking, without other incident",3,518
+even,736,"Running, without other incident",3,522
+even,737,"Boarding, alighting—excluding slip, trip, fall",3,526
+even,738,Multiple types of exertions and bodily reactions,3,530
+even,739,Other exertions or bodily reactions,3,531
+even,1110,"Intentional injury by other person, unspecified",4,6
+even,1111,Shooting by other person—intentional,4,7
+even,1112,"Stabbing, cutting, slashing, piercing",4,8
+even,1113,"Hitting, kicking, beating, shoving",4,9
+even,1114,Strangulation by other person,4,10
+even,1115,"Bombing, arson",4,11
+even,1116,"Rape, sexual assault ",4,12
+even,1117,"Threat, verbal assault",4,13
+even,1118,Multiple violent acts by other person,4,14
+even,1119,"Intentional injury by other person, n.e.c.",4,15
+even,1120,"Self-inflicted injury—intentional, unspecified",4,17
+even,1121,Shooting—intentional self-harm,4,18
+even,1122,"Hanging, strangulation, asphyxiation—intentional self-harm",4,19
+even,1123,Jumping from building or other structure—intentional self-harm,4,20
+even,1124,"Cutting, stabbing—intentional self-harm",4,21
+even,1125,Drug overdose—intentional self-harm,4,22
+even,1126,Inhalation of substance—intentional self-harm,4,23
+even,1129,"Self-inflicted injury—intentional, n.e.c.",4,24
+even,1210,"Injury by other person—unintentional or intent unknown, unspecified  ",4,28
+even,1211,Shooting by other person—unintentional ,4,29
+even,1212,Injured by physical contact with other person in sporting event or physical training,4,30
+even,1213,Injured by physical contact during horseplay ,4,31
+even,1214,"Injured by physical contact with person while restraining, subduing—unintentional",4,32
+even,1215,Injured by physical contact with person while moving that person—unintentional ,4,33
+even,1218,Multiple unintentional injuries by other person,4,34
+even,1219,"Injury by other person—unintentional or intent unknown, n.e.c.",4,35
+even,1220,"Self-inflicted injury—unintentional or intent unknown, unspecified",4,37
+even,1221,Self-inflicted shooting—unintentional,4,38
+even,1222,Self-inflicted shooting—intent unknown,4,39
+even,1223,Self-tasered—unintentional,4,40
+even,1224,Drug overdose—intent unknown,4,41
+even,1229,"Self-inflicted injury—unintentional or intent unknown, n.e.c.",4,42
+even,1310,"Bites and stings, unspecified",4,47
+even,1311,Stings and venomous bites,4,48
+even,1312,Nonvenomous insect bites ,4,49
+even,1313,"Other animal bites, nonvenomous",4,50
+even,1319,"Bites and stings, n.e.c.",4,51
+even,1320,"Struck by animal, unspecified",4,53
+even,1321,Trampled by or stepped on by animal,4,54
+even,1322,Kicked by animal,4,55
+even,1323,"Mauled, clawed, or scratched by animal",4,56
+even,1324,Gored or rammed by animal,4,57
+even,1329,"Struck by animal, n.e.c.",4,58
+even,1380,"Multiple types of animal and insect incidents, unspecified",4,60
+even,1381,Bitten and struck by animal,4,61
+even,1389,"Multiple types of animal and insect incidents, n.e.c. ",4,62
+even,2120,"Aircraft crash during takeoff or landing, unspecified",4,70
+even,2121,Aircraft crash during takeoff or landing—due to mechanical failure,4,71
+even,2122,Aircraft crash during takeoff or landing—between air vehicles,4,72
+even,2123,Aircraft crash during takeoff or landing—with ground vehicle,4,73
+even,2124,"Aircraft crash during takeoff or landing—into structure, object, or ground",4,74
+even,2129,"Aircraft crash during takeoff or landing, n.e.c. ",4,75
+even,2150,"Other in-flight crash, unspecified",4,79
+even,2151,Other in-flight crash due to mechanical failure,4,80
+even,2152,Other in-flight crash between air vehicles,4,81
+even,2153,"Other in-flight crash into structure, object, or ground",4,82
+even,2159,"Other in-flight crash, n.e.c. ",4,83
+even,2210,"Rail vehicle collision, unspecified",4,90
+even,2211,Collision between two rail vehicles,4,91
+even,2212,Collision between rail and roadway vehicles,4,92
+even,2219,"Rail vehicle collision, n.e.c.",4,93
+even,2310,"Animal transportation incident, unspecified",4,104
+even,2311,Animal transportation collision in roadway,4,105
+even,2312,Animal transportation collision in nonroadway area,4,106
+even,2313,"Thrown, fell, or jumped from animal being ridden",4,107
+even,2314,"Thrown, tipped, or fell from animal-drawn vehicle",4,108
+even,2315,"Animal transportation—struck bump, hole, or other rough terrain",4,109
+even,2319,"Animal transportation incident, n.e.c.",4,110
+even,2320,"Pedal cycle incident, unspecified",4,112
+even,2321,Pedal cycle collision in roadway,4,113
+even,2322,Pedal cycle collision in nonroadway area,4,114
+even,2323,Fall from pedal cycle,4,115
+even,2324,"Pedal cycle struck bump, hole, or other rough terrain",4,116
+even,2329,"Pedal cycle incident, n.e.c",4,117
+even,2410,"Pedestrian struck by vehicle in work zone, unspecified",4,122
+even,2411,Pedestrian struck by vehicle propelled by another vehicle in work zone,4,123
+even,2412,Pedestrian struck by forward-moving vehicle in work zone ,4,124
+even,2413,Pedestrian struck by vehicle backing up in work zone ,4,125
+even,2419,"Pedestrian struck by vehicle in work zone, n.e.c.",4,126
+even,2420,"Pedestrian struck by vehicle in roadway, unspecified",4,128
+even,2421,Pedestrian struck by vehicle propelled by another vehicle in roadway,4,129
+even,2422,Pedestrian struck by forward-moving vehicle in roadway,4,130
+even,2423,Pedestrian struck by vehicle backing up in roadway,4,131
+even,2429,"Pedestrian struck by vehicle in roadway, n.e.c.",4,132
+even,2430,"Pedestrian struck by vehicle on side of road, unspecified",4,134
+even,2431,Pedestrian struck by vehicle propelled by another vehicle on side of road,4,135
+even,2432,Pedestrian struck by forward-moving vehicle on side of road,4,136
+even,2433,Pedestrian struck by vehicle backing up on side of road,4,137
+even,2439,"Pedestrian struck by vehicle on side of road, n.e.c.",4,138
+even,2440,"Pedestrian struck by vehicle in nonroadway area, unspecified",4,140
+even,2441,Pedestrian struck by vehicle propelled by another vehicle in  nonroadway area,4,141
+even,2442,Pedestrian struck by forward-moving vehicle in nonroadway area,4,142
+even,2443,Pedestrian struck by vehicle backing up in nonroadway area,4,143
+even,2449,"Pedestrian struck by vehicle in nonroadway area, n.e.c.",4,144
+even,2520,"Water vehicle collision, unspecified",4,150
+even,2521,Collision between water vehicles,4,151
+even,2522,Collision between water vehicle and object,4,152
+even,2529,"Water vehicle collision, n.e.c.",4,153
+even,2610,"Roadway collision with other vehicle, unspecified",4,164
+even,2611,Roadway collision—moving in same direction,4,165
+even,2612,"Roadway collision—moving in opposite directions, oncoming",4,166
+even,2613,Roadway collision—moving perpendicularly ,4,167
+even,2614,Roadway collision—moving and standing vehicle in roadway,4,168
+even,2615,Roadway collision—moving and standing vehicle on side of roadway,4,169
+even,2619,"Roadway collision with other vehicle, n.e.c.",4,170
+even,2620,"Roadway collision with object other than vehicle, unspecified",4,172
+even,2621,Vehicle struck object or animal in roadway,4,173
+even,2622,Vehicle struck object or animal on side of roadway,4,174
+even,2623,Vehicle struck by falling or flying object—roadway,4,175
+even,2629,"Roadway collision with object other than vehicle, n.e.c.",4,176
+even,2630,"Roadway noncollision incident, unspecified",4,178
+even,2631,"Jack-knifed or overturned, roadway",4,179
+even,2632,Ran off roadway,4,180
+even,2633,"Struck by shifting load during transport, roadway",4,181
+even,2634,"Fall or jump from and struck by same vehicle in normal operation, roadway",4,182
+even,2635,"Fall or jump from and struck by another vehicle in normal operation, roadway",4,183
+even,2636,"Fall or jump from vehicle in normal operation, roadway",4,184
+even,2637,"Sudden start or stop, roadway",4,185
+even,2638,"Struck bump, hole, or rough terrain in road surface",4,186
+even,2639,"Roadway noncollision incident, n.e.c.",4,187
+even,2710,"Nonroadway collision with other vehicle, unspecified",4,192
+even,2711,"Moving in same direction, nonroadway",4,193
+even,2712,"Moving in opposite directions, oncoming, nonroadway",4,194
+even,2713,"Collision between a moving and standing vehicle, nonroadway",4,195
+even,2719,"Nonroadway collision with other vehicle, n.e.c.",4,196
+even,2720,"Nonroadway collision with object other than vehicle, unspecified",4,198
+even,2721,Part of occupant’s body caught between vehicle and other object in nonroadway transport incident,4,199
+even,2729,"Nonroadway collision with object other than vehicle, n.e.c.",4,200
+even,2730,"Nonroadway noncollision incident, unspecified",4,202
+even,2731,"Jack-knifed or overturned, nonroadway",4,203
+even,2732,"Ran off driving surface, nonroadway",4,204
+even,2733,"Struck by shifting load during transport, nonroadway",4,205
+even,2734,"Fall or jump from and struck by same vehicle in normal operation, nonroadway",4,206
+even,2735,"Fall or jump from and struck by another vehicle in normal operation, nonroadway",4,207
+even,2736,"Fall or jump from vehicle in normal operation, nonroadway",4,208
+even,2737,"Sudden start or stop, nonroadway",4,209
+even,2738,"Struck bump, hole, rough terrain on driving surface, nonroadway",4,210
+even,2739,"Nonroadway noncollision incident, n.e.c.",4,211
+even,4110,"Slip without fall, unspecified",4,238
+even,4111,Slip on substance without fall,4,239
+even,4112,Slip on vehicle without fall—nontransport  ,4,240
+even,4119,"Slip without fall, n.e.c. ",4,241
+even,4120,"Trip without fall, unspecified",4,243
+even,4121,Trip from stepping into a hole without fall ,4,244
+even,4122,Trip on uneven surface without fall,4,245
+even,4123,Trip over an object without fall,4,246
+even,4124,Trip on vehicle without fall—nontransport ,4,247
+even,4125,Trip over self without fall,4,248
+even,4129,"Trip without fall, n.e.c.",4,249
+even,4210,"Fall on same level due to tripping, unspecified",4,254
+even,4211,"Fall on same level while climbing stairs, steps, or curbs ",4,255
+even,4212,Fall on same level due to tripping on uneven surface,4,256
+even,4213,Fall on same level due to tripping over an object ,4,257
+even,4214,Fall on same level due to tripping over self,4,258
+even,4219,"Fall on same level due to tripping, n.e.c.",4,259
+even,4310,"Fall from collapsing structure or equipment, unspecified",4,267
+even,4311,Fall from collapsing structure or equipment less than 6 feet,4,268
+even,4312,Fall from collapsing structure or equipment 6 to 10 feet,4,269
+even,4313,Fall from collapsing structure or equipment 11 to 15 feet ,4,270
+even,4314,Fall from collapsing structure or equipment 16 to 20 feet,4,271
+even,4315,Fall from collapsing structure or equipment 21 to 25 feet ,4,272
+even,4316,Fall from collapsing structure or equipment 26 to 30 feet,4,273
+even,4317,Fall from collapsing structure or equipment more than 30 feet,4,274
+even,4320,"Fall through surface or existing opening, unspecified",4,276
+even,4321,Fall through surface or existing opening less than 6 feet,4,277
+even,4322,Fall through surface or existing opening 6 to 10 feet,4,278
+even,4323,Fall through surface or existing opening 11 to 15 feet ,4,279
+even,4324,Fall through surface or existing opening 16 to 20 feet,4,280
+even,4325,Fall through surface or existing opening 21 to 25 feet ,4,281
+even,4326,Fall through surface or existing opening 26 to 30 feet,4,282
+even,4327,Fall through surface or existing opening more than 30 feet,4,283
+even,4330,"Other fall to lower level, unspecified",4,285
+even,4331,Other fall to lower level less than 6 feet,4,286
+even,4332,Other fall to lower level 6 to 10 feet,4,287
+even,4333,Other fall to lower level 11 to 15 feet ,4,288
+even,4334,Other fall to lower level 16 to 20 feet,4,289
+even,4335,Other fall to lower level 21 to 25 feet ,4,290
+even,4336,Other fall to lower level 26 to 30 feet,4,291
+even,4337,Other fall to lower level more than 30 feet,4,292
+even,4410,"Jump from collapsing structure or equipment, unspecified",4,296
+even,4411,Jump from collapsing structure or equipment less than 6 feet,4,297
+even,4412,Jump from collapsing structure or equipment 6 to 10 feet,4,298
+even,4413,Jump from collapsing structure or equipment 11 to 15 feet ,4,299
+even,4414,Jump from collapsing structure or equipment 16 to 20 feet,4,300
+even,4415,Jump from collapsing structure or equipment 21 to 25 feet ,4,301
+even,4416,Jump from collapsing structure or equipment 26 to 30 feet,4,302
+even,4417,Jump from collapsing structure or equipment more than 30 feet,4,303
+even,4420,"Other jump to lower level, unspecified",4,305
+even,4421,Other jump to lower level less than 6 feet,4,306
+even,4422,Other jump to lower level 6 to 10 feet,4,307
+even,4423,Other jump to lower level 11 to 15 feet ,4,308
+even,4424,Other jump to lower level 16 to 20 feet,4,309
+even,4425,Other jump to lower level 21 to 25 feet ,4,310
+even,4426,Other jump to lower level 26 to 30 feet,4,311
+even,4427,Other jump to lower level more than 30 feet,4,312
+even,5110,"Direct exposure to electricity, unspecified",4,320
+even,5111,"Direct exposure to electricity, 220 volts or less",4,321
+even,5112,"Direct exposure to electricity, greater than 220 volts",4,322
+even,5120,"Indirect exposure to electricity, unspecified",4,324
+even,5121,"Indirect exposure to electricity, 220 volts or less",4,325
+even,5122,"Indirect exposure to electricity, greater than 220 volts",4,326
+even,5210,"Exposure to light and other radiation, unspecified",4,330
+even,5211,Exposure to light ,4,331
+even,5212,Exposure to other radiation,4,332
+even,5220,"Exposure to noise, unspecified",4,334
+even,5221,"Single, brief exposure to noise",4,335
+even,5222,"Single, prolonged exposure to noise",4,336
+even,5223,Repeated exposure to noise,4,337
+even,5229,"Exposure to noise, n.e.c.",4,338
+even,5520,"Inhalation of harmful substance, unspecified",4,353
+even,5521,Inhalation of harmful substance—single episode ,4,354
+even,5522,Inhalation of harmful substance—multiple episodes,4,355
+even,5540,"Exposure to harmful substance through skin, eyes, or other exposed tissue, unspecified",4,358
+even,5541,Exposure through unintentional needlestick or sharp injury ,4,359
+even,5542,Exposure through medical injection ,4,360
+even,5543,Exposure through scratch or other open wound,4,361
+even,5544,"Exposure through intact skin, eyes, or other exposed tissue",4,362
+even,5548,"Multiple types of exposures through skin, eyes, or other exposed tissue",4,363
+even,5549,"Exposure through skin, eyes, or other exposed tissue, n.e.c.",4,364
+even,6210,"Struck by powered vehicle—nontransport, unspecified",4,381
+even,6211,Caught between rolling powered vehicle and other object,4,382
+even,6212,Struck or run over by rolling powered vehicle,4,383
+even,6213,Struck by swinging part of powered vehicle,4,384
+even,6214,Struck by falling part of powered vehicle still attached,4,385
+even,6215,Struck by powered vehicle tipping over—nontransport,4,386
+even,6216,Struck by other falling powered vehicle,4,387
+even,6219,"Struck by powered vehicle—nontransport, n.e.c.",4,388
+even,6220,"Struck by rolling object or equipment—other than powered vehicle, unspecified",4,390
+even,6221,Struck by rolling object or equipment being pushed by injured worker,4,391
+even,6222,Struck by rolling object or equipment being pushed by another  person,4,392
+even,6223,Struck by object or equipment rolling freely,4,393
+even,6229,"Struck by rolling object or equipment—other than powered vehicle, n.e.c.",4,394
+even,6230,"Struck by falling object or equipment, unspecified",4,396
+even,6231,Struck by object or equipment dropped by injured worker,4,397
+even,6232,Struck by object or equipment dropped by other person,4,398
+even,6233,Struck by object falling from vehicle or machinery—other than vehicle part,4,399
+even,6239,"Struck by falling object or equipment, n.e.c.",4,400
+even,6240,"Struck by discharged or flying object, unspecified",4,402
+even,6241,"Struck by dislodged flying object, particle",4,403
+even,6242,Struck by discharged object or substance,4,404
+even,6243,Struck by thrown object—unintentional injury,4,405
+even,6249,"Struck by discharged or flying object, n.e.c.",4,406
+even,6250,"Injured by handheld object or equipment, unspecified",4,408
+even,6251,Injured by object breaking in hand ,4,409
+even,6252,Injured by slipping or swinging object held by injured worker,4,410
+even,6253,Injured by slipping or swinging object held by other person,4,411
+even,6259,"Injured by handheld object or equipment, n.e.c.",4,412
+even,6260,"Struck by swinging or slipping object, other than handheld, unspecified  ",4,414
+even,6261,Struck by or caught in swinging door or gate,4,415
+even,6269,"Struck by swinging or slipping object, other than handheld, n.e.c.",4,416
+even,6310,"Struck against moving object or equipment, unspecified",4,421
+even,6311,Struck against moving part of machinery or equipment,4,422
+even,6312,Struck against object or equipment while moving it,4,423
+even,6319,"Struck against moving object or equipment, n.e.c.",4,424
+even,6320,"Struck against stationary object or equipment, unspecified",4,426
+even,6321,Stepped on object ,4,427
+even,6322,Struck against stationary object or equipment while rising,4,428
+even,6329,"Struck against stationary object or equipment, n.e.c.",4,429
+even,6410,"Caught in running equipment or machinery, unspecified",4,434
+even,6411,"Caught in running equipment or machinery during maintenance, cleaning ",4,435
+even,6412,Caught in running equipment or machinery during regular operation,4,436
+even,6419,"Caught in running equipment or machinery, n.e.c.",4,437
+even,7110,"Overexertion in lifting, lowering, unspecified",4,469
+even,7111,Overexertion in lifting—single episode,4,470
+even,7112,Overexertion in lifting—multiple episodes,4,471
+even,7113,Overexertion in lowering—single episode,4,472
+even,7114,Overexertion in lowering—multiple episodes,4,473
+even,7120,"Overexertion in pushing, pulling, or turning, unspecified",4,475
+even,7121,"Overexertion in pushing, pulling, or turning—single episode",4,476
+even,7122,"Overexertion in pushing, pulling, or turning—multiple episodes",4,477
+even,7130,"Overexertion in holding, carrying, or wielding, unspecified",4,479
+even,7131,"Overexertion in holding, carrying, or wielding—single episode",4,480
+even,7132,"Overexertion in holding, carrying, or wielding—multiple episodes",4,481
+even,7140,"Overexertion in throwing, catching, unspecified",4,483
+even,7141,Overexertion in throwing—single episode,4,484
+even,7142,Overexertion in throwing—multiple episodes,4,485
+even,7143,Overexertion in catching—single episode,4,486
+even,7144,Overexertion in catching—multiple episodes,4,487
+even,7310,"Bending, crawling, reaching, twisting, climbing, stepping, unspecified",4,501
+even,7311,"Bending, crawling, reaching, twisting—single episode",4,502
+even,7312,"Bending, crawling, reaching, twisting—repetitive or prolonged",4,503
+even,7313,Climbing or stepping up or down—single episode,4,504
+even,7314,Climbing or stepping up or down—repetitive or prolonged,4,505
+even,7320,"Kneeling, kneeling down, unspecified",4,507
+even,7321,"Kneeling, kneeling down—single episode",4,508
+even,7322,"Kneeling, kneeling down—repetitive or prolonged",4,509
+even,7330,"Sitting, sitting down, unspecified",4,511
+even,7331,"Sitting, sitting down—single episode",4,512
+even,7332,"Sitting, sitting down—repetitive or prolonged",4,513
+even,7340,"Standing, standing up, unspecified",4,515
+even,7341,"Standing, standing up—single episode",4,516
+even,7342,"Standing, standing up—repetitive or prolonged",4,517
+even,7350,"Walking, without other incident, unspecified",4,519
+even,7351,"Walking, without other incident—single episode",4,520
+even,7352,"Walking, without other incident—repetitive or prolonged",4,521
+even,7360,"Running, without other incident, unspecified",4,523
+even,7361,"Running, without other incident—single episode",4,524
+even,7362,"Running, without other incident—repetitive or prolonged",4,525
+even,7370,"Boarding, alighting—excluding slip, trip, fall, unspecified",4,527
+even,7371,"Boarding, alighting—excluding slip, trip, fall—single episode",4,528
+even,7372,"Boarding, alighting—excluding slip, trip, fall—repetitive or prolonged",4,529
+even,7391,Sustained viewing,4,532
+even,7399,"Other exertions or bodily reactions, n.e.c.",4,533
+even,9999,Nonclassifiable,4,537

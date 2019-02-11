@@ -292,12 +292,11 @@ data.shape # 29183, 13
 
 # calculate expected number of rows discounting those with na sec source
 na_sec_source_count = len(data['Secondary Source']) - data['Secondary Source'].count() # 21373
-data.shape[0] * data.shape[1] - na_sec_source_count # 358006 expected rows
+data.shape[0] * data.shape[1] - na_sec_source_count - data.shape[0] # 328823 expected rows
 
 # reshape data
-rename_cols = { 'level_0':'UAP', 0:'Event' }
-clean_data = data.stack().reset_index()[rename_cols.keys()].rename(columns=rename_cols)
+clean_data = data.set_index('UPA').stack().reset_index()[['UPA', 0]].rename(columns={0:'Event'})
 clean_data.shape # 358006, 2
 
 # export to csv
-clean_data.to_csv('data/clean.csv')
+clean_data.to_csv('data/clean.csv', index=False)

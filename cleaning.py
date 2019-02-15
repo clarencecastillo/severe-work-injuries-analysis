@@ -1,5 +1,7 @@
 import pandas as pd
 import calendar
+import numpy as np
+import matplotlib.pyplot as plt
 
 raw_data = pd.read_csv('data/data.csv', encoding='ISO-8859-1')
 
@@ -50,7 +52,7 @@ len(duplicate_ids) # 10 rows
 # drop ID
 data = data.drop(columns=['ID'])
 
-# change type to categorical
+# change type to categoricalx
 data["UPA"] = data["UPA"].astype('category')
 
 #### 2. ANALYSIS OF LOCATION RELATED COLUMNS AS EVENT
@@ -126,7 +128,7 @@ description.
 data = data.drop(columns = ['Employer'])
 
 # naics index dataset
-naics = pd.read_csv('data/naics.csv')
+naics = pd.read_csv('data/naics_industry.csv')
 naics.dtypes
 
 '''
@@ -151,14 +153,18 @@ data = data[is_numeric_naics]
 # convert to int64
 data['Primary NAICS'] = data["Primary NAICS"].astype('int64')
 
+# get the first 2 digits of Primary NAICS
+data['NAICS Industry'] = data['Primary NAICS'].astype(str).str[0:2].astype(int)
+
 # merge dataframes
-data = naics.merge(data, left_on='NAICS 1 Code', right_on='Primary NAICS')
+data = naics.merge(data, left_on='Code', right_on='NAICS Industry')
 data.head()
 
 # remove join columns, rename description column
-data = data.drop(columns = ['NAICS 1 Code', 'Primary NAICS'])
-data = data.rename(columns={'NAICS 1 Description': 'NAICS'})
+data = data.drop(columns = ['Code', 'Primary NAICS', 'NAICS Industry'])
+data = data.rename(columns={'Industry': 'NAICS'})
 data['NAICS'] = data['NAICS'].astype('category')
+
 
 #### 5. ANALYSIS OF COLUMNS WITH EXTREME NUMBER OF UNIQUE VALUES
 
@@ -211,10 +217,9 @@ Nature of the injury suggests that an amputation had occured. Sad.
 data = data.fillna(value={'Amputation': 1})
 
 # binary categorisation
-data["Hospitalized"] = data["Hospitalized"].apply(lambda x: "Hospitalized" if x > 0 else "Not Hospitalized")
-data["Amputation"] = data["Amputation"].apply(lambda x: "Amputation" if x > 0 else "No Amputation")
+data["Hospitalized"] = data["Hospitalized"].apply(lambda x: "Hospitalized" if x > 0 else np.NaN)
+data["Amputation"] = data["Amputation"].apply(lambda x: "Amputation" if x > 0 else np.NaN)
 data.loc[~data["Inspection"].isnull(), "Inspection"] = "Has Inspection"
-data["Inspection"] = data["Inspection"].fillna("No Inspection")
 
 for col in extreme_unique_cols:
     data[col] = data[col].astype('category')
@@ -255,8 +260,8 @@ mappings = {} # store mappings here so can reuse later
 for col, file in zip(coded_cols[:-1], code_files):
     code_data = pd.read_csv(file)
 
-    # filter only top level hierarchy
-    code_data = code_data[code_data['Hierarchy_level'] == 1]
+    # filter only secondary level hierarchy
+    code_data = code_data[code_data['Hierarchy_level'].isin([1,2])]
 
     # only use CASE_CODE and CASE_CODE_TITLE
     code_data = code_data.reset_index()[['CASE_CODE', 'CASE_CODE_TITLE']]
@@ -264,16 +269,17 @@ for col, file in zip(coded_cols[:-1], code_files):
     # convert to dictionary and add nonclassifiable type
     mapping = {k: code_data.loc[code_data['CASE_CODE'] == k, 'CASE_CODE_TITLE'].iloc[0] for k in code_data["CASE_CODE"]}
     mapping[9] = 'NONCLASSIFIABLE'
+    mapping[99] = 'NONCLASSIFIABLE'
     mappings[col] = mapping
 
 # transform columns to reflect more generic classification
 for col in coded_cols[:-1]:
-    data[col] = data[col].apply(lambda x: int(str(x)[:1])) # get leftmost digit
+    data[col] = data[col].apply(lambda x: int(str(x)[:2])) # get leftmost digit
     data[col] = data[col].apply(lambda x: mappings[col][x]) # map
 
 # handle Secondary Source differently because of NA values
 with_secondary_source = data['Secondary Source'].notnull()
-data.loc[with_secondary_source,'Secondary Source'] = data.loc[with_secondary_source,'Secondary Source'].apply(lambda x: mappings['Source'][int(str(x)[:1])])
+data.loc[with_secondary_source,'Secondary Source'] = data.loc[with_secondary_source,'Secondary Source'].apply(lambda x: mappings['Source'][int(str(x)[:2])])
 
 # drop redundant code descriptors
 data = data.drop(columns=['NatureTitle', 'Part of Body Title', 'EventTitle', 'SourceTitle', 'Secondary Source Title'])
@@ -294,9 +300,21 @@ data.shape # 29183, 13
 na_sec_source_count = len(data['Secondary Source']) - data['Secondary Source'].count() # 21373
 data.shape[0] * data.shape[1] - na_sec_source_count - data.shape[0] # 328823 expected rows
 
-# reshape data
-clean_data = data.set_index('UPA').stack().reset_index()[['UPA', 0]].rename(columns={0:'Event'})
-clean_data.shape # 358006, 2
+def export(dataset, name):
+    # reshape data
+    clean_data = dataset.set_index('UPA').stack().reset_index()[['UPA', 0]].rename(columns={ 0:'Event' })
+    # export to csv
+    clean_data.to_csv('data/' + name, index=False)
 
-# export to csv
-clean_data.to_csv('data/clean.csv', index=False)
+# only manufacturing and construction
+manu_const_data = data[data['NAICS'].isin(['Manufacturing', 'Construction'])]
+export(manu_const_data, 'manu_const.csv')
+
+manu_const_data.groupby('Nature').size()
+open_wounds_data = manu_const_data[manu_const_data['Nature'] == 'Open wounds']
+open_wounds_data.to_csv('data/wounds_const.csv', index=False)
+export(open_wounds_data, 'wounds.csv')
+
+manu_const_data.groupby('Part of Body').size()
+hands_data = manu_const_data[manu_const_data['Part of Body'] == 'Hand(s)']
+export(hands_data, 'hands.csv')
